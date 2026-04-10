@@ -1130,7 +1130,7 @@ Standard_B2als_v2,,,2,4,,0.0488,0.04392,southafricanorth,V1,V2
 Standard_B2als_v2,,,2,4,,0.0635,0.05715,southafricawest,V1,V2
 Standard_B2als_v2,,,2,4,,0.0451,0.04059,southcentralus,V1,V2
 Standard_B2als_v2,,,2,4,,0.0472,0.04248,southeastasia,V1,V2
-Standard_B2als_v2,,,2,4,,0.0622,0.0477,southindia,V1,V2
+Standard_B2als_v2,,,2,4,,0.053,0.0477,southindia,V1,V2
 Standard_B2als_v2,,,2,4,,0.0489,0.04401,spaincentral,V1,V2
 Standard_B2als_v2,,,2,4,,0.0389,0.03501,swedencentral,V1,V2
 Standard_B2als_v2,,,2,4,,0.0505,0.04545,swedensouth,V1,V2
@@ -2552,7 +2552,7 @@ Standard_B8s_v2,,,8,32,,0.333,0.2997,eastus2,V1,V2
 Standard_B8s_v2,,,8,32,,0.378,0.3402,francecentral,V1,V2
 Standard_B8s_v2,,,8,32,,0.491,0.4419,francesouth,V1,V2
 Standard_B8s_v2,,,8,32,,0.499,0.4491,germanynorth,V1,V2
-Standard_B8s_v2,,,8,32,,0.384,0.3789,germanywestcentral,V1,V2
+Standard_B8s_v2,,,8,32,,0.384,0.3456,germanywestcentral,V1,V2
 Standard_B8s_v2,,,8,32,,0.38,0.197144,indonesiacentral,V1,V2
 Standard_B8s_v2,,,8,32,,0.383,0.3447,israelcentral,V1,V2
 Standard_B8s_v2,,,8,32,,0.476,0.126711,israelnorthwest,V1,V2
@@ -2987,7 +2987,7 @@ Standard_D128alds_v7,,,128,256,,8.704,1.608499,israelnorthwest,V2
 Standard_D128alds_v7,,,128,256,,7.155,1.322244,italynorth,V2
 Standard_D128alds_v7,,,128,256,,7.936,1.466573,japaneast,V2
 Standard_D128alds_v7,,,128,256,,7.936,1.466573,japanwest,V2
-Standard_D128alds_v7,,,128,256,,9.83,,jioindiawest,V2
+Standard_D128alds_v7,,,128,256,,3.942,,jioindiawest,V2
 Standard_D128alds_v7,,,128,256,,7.514,1.388587,koreacentral,V2
 Standard_D128alds_v7,,,128,256,,6.707,1.239454,mexicocentral,V2
 Standard_D128alds_v7,,,128,256,,6.093,1.125986,northcentralus,V2
@@ -3956,7 +3956,7 @@ Standard_D160as_v7,,,160,640,,7.264,1.342387,westus3,V2
 Standard_D16a_v4,,,16,64,,0.96,0.177408,australiacentral,V1,V2
 Standard_D16a_v4,,,16,64,,0.96,0.096,australiacentral2,V1,V2
 Standard_D16a_v4,,,16,64,,0.96,0.177408,australiaeast,V1,V2
-Standard_D16a_v4,,,16,64,,0.998,0.18443,australiasoutheast,V1,V2
+Standard_D16a_v4,,,16,64,,0.998,0.320443,australiasoutheast,V1,V2
 Standard_D16a_v4,,,16,64,,0.832,0.153754,austriaeast,V1,V2
 Standard_D16a_v4,,,16,64,,0.832,0.153754,belgiumcentral,V1,V2
 Standard_D16a_v4,,,16,64,,1.224,0.22693,brazilsouth,V1,V2
@@ -3999,7 +3999,7 @@ Standard_D16a_v4,,,16,64,,0.922,0.170386,southcentralus,V1,V2
 Standard_D16a_v4,,,16,64,,0.96,0.177408,southeastasia,V1,V2
 Standard_D16a_v4,,,16,64,,1.083,0.200138,southindia,V1,V2
 Standard_D16a_v4,,,16,64,,0.808,0.149318,spaincentral,V1,V2
-Standard_D16a_v4,,,16,64,,0.816,0.28681,swedencentral,V1,V2
+Standard_D16a_v4,,,16,64,,0.816,0.150797,swedencentral,V1,V2
 Standard_D16a_v4,,,16,64,,1.061,0.196073,swedensouth,V1,V2
 Standard_D16a_v4,,,16,64,,1.098,0.20291,switzerlandnorth,V1,V2
 Standard_D16a_v4,,,16,64,,1.428,0.263894,switzerlandwest,V1,V2
@@ -4643,7 +4643,7 @@ Standard_D16d_v4,,,16,64,,1.128,0.209131,southeastasia,V1,V2
 Standard_D16d_v4,,,16,64,,1.274,0.235435,southindia,V1,V2
 Standard_D16d_v4,,,16,64,,1.008,0.186278,spaincentral,V1,V2
 Standard_D16d_v4,,,16,64,,0.96,0.177408,swedencentral,V1,V2
-Standard_D16d_v4,,,16,64,,1.248,0.366643,swedensouth,V1,V2
+Standard_D16d_v4,,,16,64,,1.248,0.23063,swedensouth,V1,V2
 Standard_D16d_v4,,,16,64,,1.1968,0.221169,switzerlandnorth,V1,V2
 Standard_D16d_v4,,,16,64,,1.55602,0.287552,switzerlandwest,V1,V2
 Standard_D16d_v4,,,16,64,,1.469,0.271471,uaecentral,V1,V2
@@ -5535,7 +5535,7 @@ Standard_D16s_v5,,,16,64,,0.92,0.170016,belgiumcentral,V1,V2
 Standard_D16s_v5,,,16,64,,1.224,0.226195,brazilsouth,V1,V2
 Standard_D16s_v5,,,16,64,,1.591,0.294017,brazilsoutheast,V1,V2
 Standard_D16s_v5,,,16,64,,0.856,0.304822,canadacentral,V1,V2
-Standard_D16s_v5,,,16,64,,0.856,0.294202,canadaeast,V1,V2
+Standard_D16s_v5,,,16,64,,0.856,0.158189,canadaeast,V1,V2
 Standard_D16s_v5,,,16,64,,0.808,0.149318,centralindia,V1,V2
 Standard_D16s_v5,,,16,64,,0.868,0.160233,centralus,V1,V2
 Standard_D16s_v5,,,16,64,,1.075,0.19866,chilecentral,V1,V2
@@ -6067,7 +6067,7 @@ Standard_D2_v5,,,2,8,,0.107,0.029543,northeurope,V1,V2
 Standard_D2_v5,,,2,8,,0.127,0.02347,norwayeast,V1,V2
 Standard_D2_v5,,,2,8,,0.164,0.030307,norwaywest,V1,V2
 Standard_D2_v5,,,2,8,,0.115,0.021252,polandcentral,V1,V2
-Standard_D2_v5,,,2,8,,0.118,0.038808,qatarcentral,V1,V2
+Standard_D2_v5,,,2,8,,0.118,0.021806,qatarcentral,V1,V2
 Standard_D2_v5,,,2,8,,0.127,0.02347,southafricanorth,V1,V2
 Standard_D2_v5,,,2,8,,0.165,0.030591,southafricawest,V1,V2
 Standard_D2_v5,,,2,8,,0.115,0.021252,southcentralus,V1,V2
@@ -7976,7 +7976,7 @@ Standard_D32_v3,,,32,128,,1.92,0.354816,westeurope,V1
 Standard_D32_v3,,,32,128,,1.968,0.363686,westindia,V1
 Standard_D32_v3,,,32,128,,1.872,0.345946,westus,V1
 Standard_D32_v3,,,32,128,,1.536,0.283853,westus2,V1
-Standard_D32_v3,,,32,128,,1.536,0.283853,westus3,V1
+Standard_D32_v3,,,32,128,,1.536,0.555878,westus3,V1
 Standard_D32_v4,,,32,128,,1.92,0.354816,australiacentral,V1,V2
 Standard_D32_v4,,,32,128,,1.92,0.192,australiacentral2,V1,V2
 Standard_D32_v4,,,32,128,,1.92,0.493824,australiaeast,V1,V2
@@ -9740,7 +9740,7 @@ Standard_D32s_v5,,,32,128,,1.843,0.340586,westcentralus,V1,V2
 Standard_D32s_v5,,,32,128,,1.84,0.340032,westeurope,V1,V2
 Standard_D32s_v5,,,32,128,,1.966,0.363317,westindia,V1,V2
 Standard_D32s_v5,,,32,128,,1.792,0.331162,westus,V1,V2
-Standard_D32s_v5,,,32,128,,1.536,0.953837,westus2,V1,V2
+Standard_D32s_v5,,,32,128,,1.536,0.487066,westus2,V1,V2
 Standard_D32s_v5,,,32,128,,1.536,0.284774,westus3,V1,V2
 Standard_D32s_v6,,,32,128,,2.016,0.372557,australiacentral,V2
 Standard_D32s_v6,,,32,128,,2.016,0.2016,australiacentral2,V2
@@ -10383,7 +10383,7 @@ Standard_D48ads_v5,,,48,192,,5.148,0.95135,brazilsoutheast,V1,V2
 Standard_D48ads_v5,,,48,192,,2.76,0.53544,canadacentral,V1,V2
 Standard_D48ads_v5,,,48,192,,2.76,0.510048,canadaeast,V1,V2
 Standard_D48ads_v5,,,48,192,,1.61,0.297528,centralindia,V1,V2
-Standard_D48ads_v5,,,48,192,,2.793,0.958192,centralus,V1,V2
+Standard_D48ads_v5,,,48,192,,2.793,0.501623,centralus,V1,V2
 Standard_D48ads_v5,,,48,192,,3.417,0.631462,chilecentral,V1,V2
 Standard_D48ads_v5,,,48,192,,3,0.5544,denmarkeast,V1,V2
 Standard_D48ads_v5,,,48,192,,3.408,0.629798,eastasia,V1,V2
@@ -12840,7 +12840,7 @@ Standard_D4ds_v4,,,4,16,,0.226,0.074829,westus2,V1,V2
 Standard_D4ds_v4,,,4,16,,0.226,0.041765,westus3,V1,V2
 Standard_D4ds_v5,,,4,16,,0.284,0.052483,australiacentral,V1,V2
 Standard_D4ds_v5,,,4,16,,0.284,0.0284,australiacentral2,V1,V2
-Standard_D4ds_v5,,,4,16,,0.284,0.167778,australiaeast,V1,V2
+Standard_D4ds_v5,,,4,16,,0.284,0.101644,australiaeast,V1,V2
 Standard_D4ds_v5,,,4,16,,0.294,0.054331,australiasoutheast,V1,V2
 Standard_D4ds_v5,,,4,16,,0.272,0.050266,austriaeast,V1,V2
 Standard_D4ds_v5,,,4,16,,0.272,0.050266,belgiumcentral,V1,V2
@@ -18307,7 +18307,7 @@ Standard_D96d_v5,,,96,384,,7.008,1.295078,japaneast,V1,V2
 Standard_D96d_v5,,,96,384,,7.008,1.295078,japanwest,V1,V2
 Standard_D96d_v5,,,96,384,,5.856,,jioindiacentral,V1,V2
 Standard_D96d_v5,,,96,384,,5.856,,jioindiawest,V1,V2
-Standard_D96d_v5,,,96,384,,6.672,2.049062,koreacentral,V1,V2
+Standard_D96d_v5,,,96,384,,6.672,1.232986,koreacentral,V1,V2
 Standard_D96d_v5,,,96,384,,6.238,1.152782,koreasouth,V1,V2
 Standard_D96d_v5,,,96,384,,6.091,1.125617,malaysiawest,V1,V2
 Standard_D96d_v5,,,96,384,,5.966,1.102517,mexicocentral,V1,V2
@@ -19627,7 +19627,7 @@ Standard_DC32ads_cc_v5,,,32,128,,1.648,0.30455,eastus2,V2
 Standard_DC32ads_cc_v5,,,32,128,,1.936,0.357773,francecentral,V2
 Standard_DC32ads_cc_v5,,,32,128,,2.517,0.465142,francesouth,V2
 Standard_DC32ads_cc_v5,,,32,128,,2.6,0.48048,germanynorth,V2
-Standard_DC32ads_cc_v5,,,32,128,,3.472,0.3696,germanywestcentral,V2
+Standard_DC32ads_cc_v5,,,32,128,,2,0.3696,germanywestcentral,V2
 Standard_DC32ads_cc_v5,,,32,128,,2,0.3696,italynorth,V2
 Standard_DC32ads_cc_v5,,,32,128,,2.144,0.396211,japaneast,V2
 Standard_DC32ads_cc_v5,,,32,128,,2.144,0.396211,japanwest,V2
@@ -21439,7 +21439,7 @@ Standard_DS11_v2,,,2,14,,0.158,0.029198,mexicocentral,V1,V2
 Standard_DS11_v2,,,2,14,,0.246,0.045461,newzealandnorth,V1,V2
 Standard_DS11_v2,,,2,14,,0.185,0.034188,northcentralus,V1,V2
 Standard_DS11_v2,,,2,14,,0.185,0.03761,northeurope,V1,V2
-Standard_DS11_v2,,,2,14,,0.209,0.038623,norwayeast,V1,V2
+Standard_DS11_v2,,,2,14,,0.301,0.038623,norwayeast,V1,V2
 Standard_DS11_v2,,,2,14,,0.272,0.050266,norwaywest,V1,V2
 Standard_DS11_v2,,,2,14,,0.171,0.031601,polandcentral,V1,V2
 Standard_DS11_v2,,,2,14,,0.179,0.033079,qatarcentral,V1,V2
@@ -22090,7 +22090,7 @@ Standard_DS14,,,16,112,,1.859,0.343543,southafricanorth,V1,V2
 Standard_DS14,,,16,112,,2.331,0.432167,southafricawest,V1,V2
 Standard_DS14,,,16,112,,1.387,0.256318,southcentralus,V1,V2
 Standard_DS14,,,16,112,,1.68,0.311304,southeastasia,V1,V2
-Standard_DS14,,,16,112,,2.691,0.361284,southindia,V1,V2
+Standard_DS14,,,16,112,,1.955,0.361284,southindia,V1,V2
 Standard_DS14,,,16,112,,2.164,0.399907,uaecentral,V1,V2
 Standard_DS14,,,16,112,,1.665,0.308524,uaenorth,V1,V2
 Standard_DS14,,,16,112,,1.925,0.2695,uksouth,V1,V2
@@ -22490,7 +22490,6 @@ Standard_DS2_v2_Promo,,,2,7,,0.252,,eastus,V1,V2
 Standard_DS2_v2_Promo,,,2,7,,0.234,,eastus2,V1,V2
 Standard_DS2_v2_Promo,,,2,7,,0.175,,francecentral,V1,V2
 Standard_DS2_v2_Promo,,,2,7,,0.273,,japaneast,V1,V2
-Standard_DS2_v2_Promo,,,2,7,,0.263,,japanwest,V1,V2
 Standard_DS2_v2_Promo,,,2,7,,0.257,,koreacentral,V1,V2
 Standard_DS2_v2_Promo,,,2,7,,0.231,,koreasouth,V1,V2
 Standard_DS2_v2_Promo,,,2,7,,0.252,,northcentralus,V1,V2
@@ -22942,7 +22941,7 @@ Standard_E104id_v5,,,104,672,,9.667,1.786462,francecentral,V1,V2
 Standard_E104id_v5,,,104,672,,12.567,2.322382,francesouth,V1,V2
 Standard_E104id_v5,,,104,672,,12.864,2.377267,germanynorth,V1,V2
 Standard_E104id_v5,,,104,672,,9.896,1.828781,germanywestcentral,V1,V2
-Standard_E104id_v5,,,104,672,,8.958,2.539522,indonesiacentral,V1,V2
+Standard_E104id_v5,,,104,672,,8.958,1.655438,indonesiacentral,V1,V2
 Standard_E104id_v5,,,104,672,,9.61,1.775928,israelcentral,V1,V2
 Standard_E104id_v5,,,104,672,,9.61,1.775928,israelnorthwest,V1,V2
 Standard_E104id_v5,,,104,672,,9.61,1.775928,italynorth,V1,V2
@@ -23239,7 +23238,7 @@ Standard_E112ibds_v5,,,112,672,,13.373,2.47133,australiasoutheast,V1,V2
 Standard_E112ibds_v5,,,112,672,,12.258,2.265278,austriaeast,V1,V2
 Standard_E112ibds_v5,,,112,672,,12.258,2.265278,belgiumcentral,V1,V2
 Standard_E112ibds_v5,,,112,672,,16.416,3.033677,brazilsouth,V1,V2
-Standard_E112ibds_v5,,,112,672,,21.341,3.943817,brazilsoutheast,V1,V2
+Standard_E112ibds_v5,,,112,672,,26.493,3.943817,brazilsoutheast,V1,V2
 Standard_E112ibds_v5,,,112,672,,11.365,3.767498,canadacentral,V1,V2
 Standard_E112ibds_v5,,,112,672,,11.365,2.100252,canadaeast,V1,V2
 Standard_E112ibds_v5,,,112,672,,10.842,2.003602,centralindia,V1,V2
@@ -24095,7 +24094,7 @@ Standard_E16_v5,,,16,128,,1.128,0.313697,northeurope,V1,V2
 Standard_E16_v5,,,16,128,,1.338,0.247262,norwayeast,V1,V2
 Standard_E16_v5,,,16,128,,1.739,0.321367,norwaywest,V1,V2
 Standard_E16_v5,,,16,128,,1.216,0.224717,polandcentral,V1,V2
-Standard_E16_v5,,,16,128,,1.92,0.218803,qatarcentral,V1,V2
+Standard_E16_v5,,,16,128,,1.184,0.218803,qatarcentral,V1,V2
 Standard_E16_v5,,,16,128,,1.344,0.248371,southafricanorth,V1,V2
 Standard_E16_v5,,,16,128,,1.747,0.322846,southafricawest,V1,V2
 Standard_E16_v5,,,16,128,,1.21,0.223608,southcentralus,V1,V2
@@ -24237,7 +24236,7 @@ Standard_E16-4as_v4,,,16,128,,1.581,0.292169,germanynorth,V1,V2
 Standard_E16-4as_v4,,,16,128,,1.216,0.224717,germanywestcentral,V1,V2
 Standard_E16-4as_v4,,,16,128,,1.088,0.201062,indonesiacentral,V1,V2
 Standard_E16-4as_v4,,,16,128,,1.184,0.218803,israelcentral,V1,V2
-Standard_E16-4as_v4,,,16,128,,1.12,0.342989,israelnorthwest,V1,V2
+Standard_E16-4as_v4,,,16,128,,1.12,0.206976,israelnorthwest,V1,V2
 Standard_E16-4as_v4,,,16,128,,1.184,0.218803,italynorth,V1,V2
 Standard_E16-4as_v4,,,16,128,,1.216,0.224717,japaneast,V1,V2
 Standard_E16-4as_v4,,,16,128,,1.216,0.224717,japanwest,V1,V2
@@ -24408,7 +24407,7 @@ Standard_E16-4ds_v4,,,16,128,,1.208,,jioindiawest,V1,V2
 Standard_E16-4ds_v4,,,16,128,,1.384,0.255763,koreacentral,V1,V2
 Standard_E16-4ds_v4,,,16,128,,1.317,0.243382,koreasouth,V1,V2
 Standard_E16-4ds_v4,,,16,128,,1.253,0.231554,malaysiawest,V1,V2
-Standard_E16-4ds_v4,,,16,128,,1.267,0.370154,mexicocentral,V1,V2
+Standard_E16-4ds_v4,,,16,128,,1.267,0.234142,mexicocentral,V1,V2
 Standard_E16-4ds_v4,,,16,128,,1.461,0.269993,newzealandnorth,V1,V2
 Standard_E16-4ds_v4,,,16,128,,1.152,0.21289,northcentralus,V1,V2
 Standard_E16-4ds_v4,,,16,128,,1.28,0.307456,northeurope,V1,V2
@@ -24738,7 +24737,7 @@ Standard_E16-4s_v5,,,16,128,,1.184,0.218803,qatarcentral,V1,V2
 Standard_E16-4s_v5,,,16,128,,1.344,0.248371,southafricanorth,V1,V2
 Standard_E16-4s_v5,,,16,128,,1.747,0.322846,southafricawest,V1,V2
 Standard_E16-4s_v5,,,16,128,,1.21,0.223608,southcentralus,V1,V2
-Standard_E16-4s_v5,,,16,128,,1.216,0.361901,southeastasia,V1,V2
+Standard_E16-4s_v5,,,16,128,,1.216,0.225446,southeastasia,V1,V2
 Standard_E16-4s_v5,,,16,128,,1.421,0.262601,southindia,V1,V2
 Standard_E16-4s_v5,,,16,128,,1.128,0.208454,spaincentral,V1,V2
 Standard_E16-4s_v5,,,16,128,,1.072,0.198106,swedencentral,V1,V2
@@ -25203,7 +25202,7 @@ Standard_E16-8ds_v5,,,16,128,,1.382,0.255394,westcentralus,V1,V2
 Standard_E16-8ds_v5,,,16,128,,1.384,0.255763,westeurope,V1,V2
 Standard_E16-8ds_v5,,,16,128,,1.475,0.27258,westindia,V1,V2
 Standard_E16-8ds_v5,,,16,128,,1.296,0.239501,westus,V1,V2
-Standard_E16-8ds_v5,,,16,128,,1.152,0.627382,westus2,V1,V2
+Standard_E16-8ds_v5,,,16,128,,1.152,0.38281,westus2,V1,V2
 Standard_E16-8ds_v5,,,16,128,,1.152,0.213466,westus3,V1,V2
 Standard_E16-8ds_v6,,,16,128,,1.568,0.289766,australiacentral,V2
 Standard_E16-8ds_v6,,,16,128,,1.568,0.1568,australiacentral2,V2
@@ -27360,7 +27359,7 @@ Standard_E20a_v4,,,20,160,,1.638,0.302702,australiasoutheast,V1,V2
 Standard_E20a_v4,,,20,160,,1.37,0.253176,austriaeast,V1,V2
 Standard_E20a_v4,,,20,160,,1.37,0.253176,belgiumcentral,V1,V2
 Standard_E20a_v4,,,20,160,,2.01,0.371448,brazilsouth,V1,V2
-Standard_E20a_v4,,,20,160,,2.613,0.482882,brazilsoutheast,V1,V2
+Standard_E20a_v4,,,20,160,,2.613,0.652898,brazilsoutheast,V1,V2
 Standard_E20a_v4,,,20,160,,1.38,0.255024,canadacentral,V1,V2
 Standard_E20a_v4,,,20,160,,1.38,0.255024,canadaeast,V1,V2
 Standard_E20a_v4,,,20,160,,0.794,0.146731,centralindia,V1,V2
@@ -30756,7 +30755,7 @@ Standard_E32-8as_v7,,,32,256,,2.099,0.387895,mexicocentral,V2
 Standard_E32-8as_v7,,,32,256,,1.907,0.352414,northcentralus,V2
 Standard_E32-8as_v7,,,32,256,,2.128,0.393254,northeurope,V2
 Standard_E32-8as_v7,,,32,256,,2.73,0.504504,norwayeast,V2
-Standard_E32-8as_v7,,,32,256,,2.304,0.425779,polandcentral,V2
+Standard_E32-8as_v7,,,32,256,,3.776,0.425779,polandcentral,V2
 Standard_E32-8as_v7,,,32,256,,2.55,0.47124,southafricanorth,V2
 Standard_E32-8as_v7,,,32,256,,2.285,0.422268,southcentralus,V2
 Standard_E32-8as_v7,,,32,256,,2.397,0.442966,southeastasia,V2
@@ -31779,7 +31778,7 @@ Standard_E32bs_v5,,,32,256,,4.432,0.819034,switzerlandwest,V1,V2
 Standard_E32bs_v5,,,32,256,,3.848,0.71111,uaecentral,V1,V2
 Standard_E32bs_v5,,,32,256,,2.96,0.547008,uaenorth,V1,V2
 Standard_E32bs_v5,,,32,256,,2.824,0.33888,uksouth,V1,V2
-Standard_E32bs_v5,,,32,256,,2.885,0.805174,ukwest,V1,V2
+Standard_E32bs_v5,,,32,256,,2.885,0.533148,ukwest,V1,V2
 Standard_E32bs_v5,,,32,256,,2.88,0.532224,usgovarizona,V1,V2
 Standard_E32bs_v5,,,32,256,,2.98,0.550704,usgovtexas,V1,V2
 Standard_E32bs_v5,,,32,256,,2.88,0.532224,usgovvirginia,V1,V2
@@ -32019,7 +32018,7 @@ Standard_E32ds_v5,,,32,256,,2.416,,jioindiacentral,V1,V2
 Standard_E32ds_v5,,,32,256,,2.416,,jioindiawest,V1,V2
 Standard_E32ds_v5,,,32,256,,2.768,0.511526,koreacentral,V1,V2
 Standard_E32ds_v5,,,32,256,,2.65,0.48972,koreasouth,V1,V2
-Standard_E32ds_v5,,,32,256,,2.506,0.463109,malaysiawest,V1,V2
+Standard_E32ds_v5,,,32,256,,3.978,0.463109,malaysiawest,V1,V2
 Standard_E32ds_v5,,,32,256,,2.534,0.468283,mexicocentral,V1,V2
 Standard_E32ds_v5,,,32,256,,2.923,0.54017,newzealandnorth,V1,V2
 Standard_E32ds_v5,,,32,256,,2.304,0.425779,northcentralus,V1,V2
@@ -32136,7 +32135,7 @@ Standard_E32pds_v5,,,32,208,,2.08,0.384384,westus,V2
 Standard_E32pds_v5,,,32,208,,1.843,0.340586,westus2,V2
 Standard_E32pds_v5,,,32,208,,1.843,0.340586,westus3,V2
 Standard_E32pds_v6,,,32,256,,2.333,0.434871,australiaeast,V2
-Standard_E32pds_v6,,,32,256,,2.432,,australiasoutheast,V2
+Standard_E32pds_v6,,,32,256,,2.432,0.449434,australiasoutheast,V2
 Standard_E32pds_v6,,,32,256,,2.973,0.664763,brazilsouth,V2
 Standard_E32pds_v6,,,32,256,,2.08,0.384384,canadacentral,V2
 Standard_E32pds_v6,,,32,256,,2.08,0.384384,canadaeast,V2
@@ -34472,7 +34471,7 @@ Standard_E48pds_v6,,,48,384,,3.864,0.714067,eastasia,V2
 Standard_E48pds_v6,,,48,384,,2.808,0.807581,eastus,V2
 Standard_E48pds_v6,,,48,384,,2.808,1.022112,eastus2,V2
 Standard_E48pds_v6,,,48,384,,3.278,0.605774,francecentral,V2
-Standard_E48pds_v6,,,48,384,,3.355,,germanywestcentral,V2
+Standard_E48pds_v6,,,48,384,,3.355,0.620004,germanywestcentral,V2
 Standard_E48pds_v6,,,48,384,,3.264,0.603187,italynorth,V2
 Standard_E48pds_v6,,,48,384,,3.61,0.667128,japaneast,V2
 Standard_E48pds_v6,,,48,384,,3.614,0.667867,japanwest,V2
@@ -35531,7 +35530,7 @@ Standard_E4ds_v4,,,4,32,,0.288,0.053222,northcentralus,V1,V2
 Standard_E4ds_v4,,,4,32,,0.32,0.076864,northeurope,V1,V2
 Standard_E4ds_v4,,,4,32,,0.381,0.070409,norwayeast,V1,V2
 Standard_E4ds_v4,,,4,32,,0.495,0.091476,norwaywest,V1,V2
-Standard_E4ds_v4,,,4,32,,0.346,0.098209,polandcentral,V1,V2
+Standard_E4ds_v4,,,4,32,,0.346,0.063941,polandcentral,V1,V2
 Standard_E4ds_v4,,,4,32,,0.352,0.06505,qatarcentral,V1,V2
 Standard_E4ds_v4,,,4,32,,0.38,0.070224,southafricanorth,V1,V2
 Standard_E4ds_v4,,,4,32,,0.484,0.089443,southafricawest,V1,V2
@@ -35880,7 +35879,7 @@ Standard_E4s_v4,,,4,32,,0.276,0.051005,canadaeast,V1,V2
 Standard_E4s_v4,,,4,32,,0.26,0.048048,centralindia,V1,V2
 Standard_E4s_v4,,,4,32,,0.285,0.052782,centralus,V1,V2
 Standard_E4s_v4,,,4,32,,0.353,0.065234,chilecentral,V1,V2
-Standard_E4s_v4,,,4,32,,0.3344,,deloscloudgermanycentral,V1,V2
+Standard_E4s_v4,,,4,32,,0.5368,,deloscloudgermanycentral,V1,V2
 Standard_E4s_v4,,,4,32,,0.3344,,deloscloudgermanynorth,V1,V2
 Standard_E4s_v4,,,4,32,,0.304,0.056179,denmarkeast,V1,V2
 Standard_E4s_v4,,,4,32,,0.334,0.061723,eastasia,V1,V2
@@ -35986,7 +35985,7 @@ Standard_E4s_v5,,,4,32,,0.348,0.06431,swedensouth,V1,V2
 Standard_E4s_v5,,,4,32,,0.334,0.061723,switzerlandnorth,V1,V2
 Standard_E4s_v5,,,4,32,,0.442,0.081682,switzerlandwest,V1,V2
 Standard_E4s_v5,,,4,32,,0.403,0.074474,uaecentral,V1,V2
-Standard_E4s_v5,,,4,32,,0.31,0.057288,uaenorth,V1,V2
+Standard_E4s_v5,,,4,32,,0.31,0.091291,uaenorth,V1,V2
 Standard_E4s_v5,,,4,32,,0.296,0.03552,uksouth,V1,V2
 Standard_E4s_v5,,,4,32,,0.305,0.056364,ukwest,V1,V2
 Standard_E4s_v5,,,4,32,,0.302,0.05581,westcentralus,V1,V2
@@ -36431,7 +36430,7 @@ Standard_E64-16as_v5,,,64,512,,4.384,0.810163,germanywestcentral,V1,V2
 Standard_E64-16as_v5,,,64,512,,3.917,0.723862,indonesiacentral,V1,V2
 Standard_E64-16as_v5,,,64,512,,4.48,0.827904,israelcentral,V1,V2
 Standard_E64-16as_v5,,,64,512,,4.48,0.827904,israelnorthwest,V1,V2
-Standard_E64-16as_v5,,,64,512,,4.256,1.33056,italynorth,V1,V2
+Standard_E64-16as_v5,,,64,512,,4.256,0.786509,italynorth,V1,V2
 Standard_E64-16as_v5,,,64,512,,4.384,0.810163,japaneast,V1,V2
 Standard_E64-16as_v5,,,64,512,,4.384,0.810163,japanwest,V1,V2
 Standard_E64-16as_v5,,,64,512,,2.288,,jioindiacentral,V1,V2
@@ -36576,7 +36575,7 @@ Standard_E64-16ds_v5,,,64,512,,5.568,1.921517,australiaeast,V1,V2
 Standard_E64-16ds_v5,,,64,512,,5.99,1.106952,australiasoutheast,V1,V2
 Standard_E64-16ds_v5,,,64,512,,5.536,1.023053,austriaeast,V1,V2
 Standard_E64-16ds_v5,,,64,512,,5.536,1.023053,belgiumcentral,V1,V2
-Standard_E64-16ds_v5,,,64,512,,10.24,1.348301,brazilsouth,V1,V2
+Standard_E64-16ds_v5,,,64,512,,7.296,1.348301,brazilsouth,V1,V2
 Standard_E64-16ds_v5,,,64,512,,9.485,1.752828,brazilsoutheast,V1,V2
 Standard_E64-16ds_v5,,,64,512,,5.056,1.676064,canadacentral,V1,V2
 Standard_E64-16ds_v5,,,64,512,,5.056,0.934349,canadaeast,V1,V2
@@ -36746,7 +36745,7 @@ Standard_E64-16s_v3,,,64,432,,6.25681,1.156258,switzerlandwest,V1,V2
 Standard_E64-16s_v3,,,64,432,,5.661,1.046153,uaecentral,V1,V2
 Standard_E64-16s_v3,,,64,432,,4.355,0.806982,uaenorth,V1,V2
 Standard_E64-16s_v3,,,64,432,,4.264,0.51168,uksouth,V1,V2
-Standard_E64-16s_v3,,,64,432,,7.208,0.787987,ukwest,V1,V2
+Standard_E64-16s_v3,,,64,432,,4.264,0.787987,ukwest,V1,V2
 Standard_E64-16s_v3,,,64,432,,4.347,0.803326,usgovarizona,V1,V2
 Standard_E64-16s_v3,,,64,432,,4.347,0.803326,usgovtexas,V1,V2
 Standard_E64-16s_v3,,,64,432,,4.814,0.889627,usgovvirginia,V1,V2
@@ -36871,7 +36870,7 @@ Standard_E64-16s_v5,,,64,512,,4.864,0.901786,southeastasia,V1,V2
 Standard_E64-16s_v5,,,64,512,,5.685,1.050588,southindia,V1,V2
 Standard_E64-16s_v5,,,64,512,,4.512,0.833818,spaincentral,V1,V2
 Standard_E64-16s_v5,,,64,512,,4.288,0.792422,swedencentral,V1,V2
-Standard_E64-16s_v5,,,64,512,,5.574,1.030075,swedensouth,V1,V2
+Standard_E64-16s_v5,,,64,512,,8.518,1.030075,swedensouth,V1,V2
 Standard_E64-16s_v5,,,64,512,,5.344,0.987571,switzerlandnorth,V1,V2
 Standard_E64-16s_v5,,,64,512,,7.072,1.306906,switzerlandwest,V1,V2
 Standard_E64-16s_v5,,,64,512,,6.452,1.19233,uaecentral,V1,V2
@@ -37743,7 +37742,7 @@ Standard_E64ads_v5,,,64,512,,4.611,0.852113,mexicocentral,V1,V2
 Standard_E64ads_v5,,,64,512,,4.192,0.774682,northcentralus,V1,V2
 Standard_E64ads_v5,,,64,512,,4.672,0.863386,northeurope,V1,V2
 Standard_E64ads_v5,,,64,512,,5.995,1.107876,norwayeast,V1,V2
-Standard_E64ads_v5,,,64,512,,7.793,1.440146,norwaywest,V1,V2
+Standard_E64ads_v5,,,64,512,,7.793,1.984198,norwaywest,V1,V2
 Standard_E64ads_v5,,,64,512,,5.056,0.934349,polandcentral,V1,V2
 Standard_E64ads_v5,,,64,512,,5.149,0.951535,qatarcentral,V1,V2
 Standard_E64ads_v5,,,64,512,,5.536,1.023053,southafricanorth,V1,V2
@@ -39867,7 +39866,7 @@ Standard_E8-2s_v6,,,8,64,,0.638,0.117902,westeurope,V2
 Standard_E8-2s_v6,,,8,64,,0.677,0.12511,westindia,V2
 Standard_E8-2s_v6,,,8,64,,0.588,0.108662,westus,V2
 Standard_E8-2s_v6,,,8,64,,0.529,0.097759,westus2,V2
-Standard_E8-2s_v6,,,8,64,,0.529,0.165766,westus3,V2
+Standard_E8-2s_v6,,,8,64,,0.529,0.097759,westus3,V2
 Standard_E8-4ads_v5,,,8,64,,0.707,0.1414,attatlanta1,V1,V2
 Standard_E8-4ads_v5,,,8,64,,0.849,0.1698,attdallas1,V1,V2
 Standard_E8-4ads_v5,,,8,64,,0.636,0.117533,australiacentral,V1,V2
@@ -39884,7 +39883,7 @@ Standard_E8-4ads_v5,,,8,64,,0.332,0.061354,centralindia,V1,V2
 Standard_E8-4ads_v5,,,8,64,,0.592,0.105435,centralus,V1,V2
 Standard_E8-4ads_v5,,,8,64,,0.726,0.134165,chilecentral,V1,V2
 Standard_E8-4ads_v5,,,8,64,,0.632,0.116794,denmarkeast,V1,V2
-Standard_E8-4ads_v5,,,8,64,,0.694,0.128251,eastasia,V1,V2
+Standard_E8-4ads_v5,,,8,64,,0.694,0.196258,eastasia,V1,V2
 Standard_E8-4ads_v5,,,8,64,,0.524,0.106372,eastus,V1,V2
 Standard_E8-4ads_v5,,,8,64,,0.524,0.153532,eastus2,V1,V2
 Standard_E8-4ads_v5,,,8,64,,0.612,0.113098,francecentral,V1,V2
@@ -40215,7 +40214,7 @@ Standard_E8-4ds_v5,,,8,64,,0.576,0.221645,eastus2,V1,V2
 Standard_E8-4ds_v5,,,8,64,,0.676,0.124925,francecentral,V1,V2
 Standard_E8-4ds_v5,,,8,64,,0.879,0.162439,francesouth,V1,V2
 Standard_E8-4ds_v5,,,8,64,,0.9,0.16632,germanynorth,V1,V2
-Standard_E8-4ds_v5,,,8,64,,0.692,0.195888,germanywestcentral,V1,V2
+Standard_E8-4ds_v5,,,8,64,,0.692,0.127882,germanywestcentral,V1,V2
 Standard_E8-4ds_v5,,,8,64,,0.626,0.115685,indonesiacentral,V1,V2
 Standard_E8-4ds_v5,,,8,64,,0.672,0.124186,israelcentral,V1,V2
 Standard_E8-4ds_v5,,,8,64,,0.672,0.124186,israelnorthwest,V1,V2
@@ -41402,7 +41401,7 @@ Standard_E8d_v5,,,8,64,,0.576,0.191405,westus2,V1,V2
 Standard_E8d_v5,,,8,64,,0.576,0.106733,westus3,V1,V2
 Standard_E8ds_v4,,,8,64,,0.696,0.128621,australiacentral,V1,V2
 Standard_E8ds_v4,,,8,64,,0.696,0.0696,australiacentral2,V1,V2
-Standard_E8ds_v4,,,8,64,,1.064,0.216595,australiaeast,V1,V2
+Standard_E8ds_v4,,,8,64,,0.696,0.216595,australiaeast,V1,V2
 Standard_E8ds_v4,,,8,64,,0.691,0.127697,australiasoutheast,V1,V2
 Standard_E8ds_v4,,,8,64,,0.692,0.127882,austriaeast,V1,V2
 Standard_E8ds_v4,,,8,64,,0.692,0.127882,belgiumcentral,V1,V2
@@ -42208,7 +42207,7 @@ Standard_E96-24as_v4,,,96,672,,9.235,1.706628,francesouth,V1,V2
 Standard_E96-24as_v4,,,96,672,,9.485,1.752828,germanynorth,V1,V2
 Standard_E96-24as_v4,,,96,672,,7.296,1.348301,germanywestcentral,V1,V2
 Standard_E96-24as_v4,,,96,672,,6.528,1.206374,indonesiacentral,V1,V2
-Standard_E96-24as_v4,,,96,672,,7.104,2.128896,israelcentral,V1,V2
+Standard_E96-24as_v4,,,96,672,,7.104,1.312819,israelcentral,V1,V2
 Standard_E96-24as_v4,,,96,672,,6.72,1.241856,israelnorthwest,V1,V2
 Standard_E96-24as_v4,,,96,672,,7.104,1.312819,italynorth,V1,V2
 Standard_E96-24as_v4,,,96,672,,7.296,1.348301,japaneast,V1,V2
@@ -42501,7 +42500,7 @@ Standard_E96-24s_v5,,,96,672,,7.296,1.348301,germanywestcentral,V1,V2
 Standard_E96-24s_v5,,,96,672,,6.566,1.213397,indonesiacentral,V1,V2
 Standard_E96-24s_v5,,,96,672,,7.104,1.312819,israelcentral,V1,V2
 Standard_E96-24s_v5,,,96,672,,7.104,1.312819,israelnorthwest,V1,V2
-Standard_E96-24s_v5,,,96,672,,7.104,1.312819,italynorth,V1,V2
+Standard_E96-24s_v5,,,96,672,,7.104,2.128896,italynorth,V1,V2
 Standard_E96-24s_v5,,,96,672,,7.296,1.348301,japaneast,V1,V2
 Standard_E96-24s_v5,,,96,672,,7.296,1.348301,japanwest,V1,V2
 Standard_E96-24s_v5,,,96,672,,6.24,,jioindiacentral,V1,V2
@@ -42765,7 +42764,7 @@ Standard_E96-48as_v4,,,96,672,,6.576,1.215245,austriaeast,V1,V2
 Standard_E96-48as_v4,,,96,672,,6.576,1.215245,belgiumcentral,V1,V2
 Standard_E96-48as_v4,,,96,672,,9.648,1.78295,brazilsouth,V1,V2
 Standard_E96-48as_v4,,,96,672,,12.542,2.317762,brazilsoutheast,V1,V2
-Standard_E96-48as_v4,,,96,672,,6.624,1.224115,canadacentral,V1,V2
+Standard_E96-48as_v4,,,96,672,,11.04,1.224115,canadacentral,V1,V2
 Standard_E96-48as_v4,,,96,672,,6.624,1.224115,canadaeast,V1,V2
 Standard_E96-48as_v4,,,96,672,,6.24,1.153152,centralindia,V1,V2
 Standard_E96-48as_v4,,,96,672,,6.834,1.218502,centralus,V1,V2
@@ -44593,7 +44592,7 @@ Standard_EC2ads_v6,,,2,16,,0.179,0.033079,uaenorth,V2
 Standard_EC2ads_v6,,,2,16,,0.169,0.031231,uksouth,V2
 Standard_EC2ads_v6,,,2,16,,0.175,0.03234,ukwest,V2
 Standard_EC2ads_v6,,,2,16,,0.184,0.034003,usgovarizona,V2
-Standard_EC2ads_v6,,,2,16,,0.182,0.050635,usgovtexas,V2
+Standard_EC2ads_v6,,,2,16,,0.182,0.033634,usgovtexas,V2
 Standard_EC2ads_v6,,,2,16,,0.184,0.034003,usgovvirginia,V2
 Standard_EC2ads_v6,,,2,16,,0.174,0.032155,westcentralus,V2
 Standard_EC2ads_v6,,,2,16,,0.175,0.03234,westeurope,V2
@@ -44824,7 +44823,7 @@ Standard_EC32as_cc_v5,,,32,192,,2.176,0.402125,koreacentral,V2
 Standard_EC32as_cc_v5,,,32,192,,1.808,0.334118,northcentralus,V2
 Standard_EC32as_cc_v5,,,32,192,,2.032,0.375514,northeurope,V2
 Standard_EC32as_cc_v5,,,32,192,,2.585,0.477708,norwayeast,V2
-Standard_EC32as_cc_v5,,,32,192,,3.361,0.621113,norwaywest,V2
+Standard_EC32as_cc_v5,,,32,192,,4.833,0.621113,norwaywest,V2
 Standard_EC32as_cc_v5,,,32,192,,2.192,0.405082,polandcentral,V2
 Standard_EC32as_cc_v5,,,32,192,,2.416,0.446477,southafricanorth,V2
 Standard_EC32as_cc_v5,,,32,192,,3.141,0.580457,southafricawest,V2
@@ -46601,7 +46600,7 @@ Standard_F16amds_v7,,,16,128,,2.15,0.39732,uaenorth,V2
 Standard_F16amds_v7,,,16,128,,2.027,0.37459,uksouth,V2
 Standard_F16amds_v7,,,16,128,,2.21,0.408408,usgovvirginia,V2
 Standard_F16amds_v7,,,16,128,,2.109,0.389743,westeurope,V2
-Standard_F16amds_v7,,,16,128,,2.784,0.37847,westus,V2
+Standard_F16amds_v7,,,16,128,,2.048,0.37847,westus,V2
 Standard_F16amds_v7,,,16,128,,1.744,0.322291,westus2,V2
 Standard_F16amds_v7,,,16,128,,1.744,0.322291,westus3,V2
 Standard_F16ams_v6,,,16,128,,1.797,0.332086,australiacentral,V2
@@ -46818,7 +46817,7 @@ Standard_F16s,,,16,32,,1.113,0.205682,chilecentral,V1,V2
 Standard_F16s,,,16,32,,1.155,0.213444,eastasia,V1,V2
 Standard_F16s,,,16,32,,0.796,0.149966,eastus,V1,V2
 Standard_F16s,,,16,32,,0.796,0.404766,eastus2,V1,V2
-Standard_F16s,,,16,32,,0.808,0.285331,francecentral,V1,V2
+Standard_F16s,,,16,32,,0.808,0.149318,francecentral,V1,V2
 Standard_F16s,,,16,32,,1.05,0.19404,francesouth,V1,V2
 Standard_F16s,,,16,32,,1.186,0.219173,germanynorth,V1,V2
 Standard_F16s,,,16,32,,0.909,0.167983,germanywestcentral,V1,V2
@@ -47368,7 +47367,7 @@ Standard_F2alds_v7,,,2,4,,0.143,0.026426,eastus,V2
 Standard_F2alds_v7,,,2,4,,0.143,0.026426,eastus2,V2
 Standard_F2alds_v7,,,2,4,,0.168,0.031046,francecentral,V2
 Standard_F2alds_v7,,,2,4,,0.173,0.03197,germanywestcentral,V2
-Standard_F2alds_v7,,,2,4,,0.205,0.037884,israelnorthwest,V2
+Standard_F2alds_v7,,,2,4,,0.297,0.037884,israelnorthwest,V2
 Standard_F2alds_v7,,,2,4,,0.168,0.031046,italynorth,V2
 Standard_F2alds_v7,,,2,4,,0.186,0.034373,japaneast,V2
 Standard_F2alds_v7,,,2,4,,0.186,0.034373,japanwest,V2
@@ -48544,7 +48543,7 @@ Standard_F4-1ams_v7,,,4,32,,0.358,0.066051,centralus,V2
 Standard_F4-1ams_v7,,,4,32,,0.495,0.091476,eastasia,V2
 Standard_F4-1ams_v7,,,4,32,,0.358,0.066158,eastus,V2
 Standard_F4-1ams_v7,,,4,32,,0.358,0.066158,eastus2,V2
-Standard_F4-1ams_v7,,,4,32,,0.42,0.077616,francecentral,V2
+Standard_F4-1ams_v7,,,4,32,,0.42,0.111619,francecentral,V2
 Standard_F4-1ams_v7,,,4,32,,0.433,0.080018,germanywestcentral,V2
 Standard_F4-1ams_v7,,,4,32,,0.512,0.094618,israelnorthwest,V2
 Standard_F4-1ams_v7,,,4,32,,0.42,0.077616,italynorth,V2
@@ -50770,7 +50769,7 @@ Standard_F8als_v6,,,8,16,,0.692,0.127882,israelnorthwest,V2
 Standard_F8als_v6,,,8,16,,0.568,0.104966,italynorth,V2
 Standard_F8als_v6,,,8,16,,0.63,0.116424,japaneast,V2
 Standard_F8als_v6,,,8,16,,0.63,0.116424,japanwest,V2
-Standard_F8als_v6,,,8,16,,0.313,,jioindiacentral,V2
+Standard_F8als_v6,,,8,16,,0.681,,jioindiacentral,V2
 Standard_F8als_v6,,,8,16,,0.313,,jioindiawest,V2
 Standard_F8als_v6,,,8,16,,0.596,0.110141,koreacentral,V2
 Standard_F8als_v6,,,8,16,,0.556,0.102749,koreasouth,V2
@@ -50925,7 +50924,7 @@ Standard_F8ams_v6,,,8,64,,0.841,0.155417,spaincentral,V2
 Standard_F8ams_v6,,,8,64,,0.766,0.141557,swedencentral,V2
 Standard_F8ams_v6,,,8,64,,0.998,0.18443,swedensouth,V2
 Standard_F8ams_v6,,,8,64,,1.023,0.18905,switzerlandnorth,V2
-Standard_F8ams_v6,,,8,64,,1.699,0.245969,switzerlandwest,V2
+Standard_F8ams_v6,,,8,64,,1.331,0.245969,switzerlandwest,V2
 Standard_F8ams_v6,,,8,64,,1.146,0.211781,uaecentral,V2
 Standard_F8ams_v6,,,8,64,,0.882,0.162994,uaenorth,V2
 Standard_F8ams_v6,,,8,64,,0.832,0.10816,uksouth,V2
@@ -51041,7 +51040,7 @@ Standard_F8as_v7,,,8,32,,0.686,0.126773,australiaeast,V2
 Standard_F8as_v7,,,8,32,,0.877,0.16207,brazilsouth,V2
 Standard_F8as_v7,,,8,32,,0.61,0.112728,canadacentral,V2
 Standard_F8as_v7,,,8,32,,0.353,0.065234,centralindia,V2
-Standard_F8as_v7,,,8,32,,0.546,0.100737,centralus,V2
+Standard_F8as_v7,,,8,32,,0.546,0.168724,centralus,V2
 Standard_F8as_v7,,,8,32,,0.756,0.139709,eastasia,V2
 Standard_F8as_v7,,,8,32,,0.546,0.100901,eastus,V2
 Standard_F8as_v7,,,8,32,,0.546,0.100901,eastus2,V2
@@ -55182,7 +55181,7 @@ Standard_L80s_v2,,,80,640,,7.52,1.389696,usgovvirginia,V1,V2
 Standard_L80s_v2,,,80,640,,7.44,1.374912,westeurope,V1,V2
 Standard_L80s_v2,,,80,640,,6.88,1.271424,westus,V1,V2
 Standard_L80s_v2,,,80,640,,6.24,1.153152,westus2,V1,V2
-Standard_L80s_v2,,,80,640,,6.24,1.153152,westus3,V1,V2
+Standard_L80s_v2,,,80,640,,9.92,1.153152,westus3,V1,V2
 Standard_L80s_v3,,,80,640,,8.36,1.544928,australiacentral,V1,V2
 Standard_L80s_v3,,,80,640,,8.36,0.836,australiacentral2,V1,V2
 Standard_L80s_v3,,,80,640,,8.36,2.885036,australiaeast,V1,V2
@@ -55967,7 +55966,7 @@ Standard_M128bs_v3,,,128,1024,,15.9588,2.949186,switzerlandnorth,V2
 Standard_M128bs_v3,,,128,1024,,15.9588,2.949186,uaenorth,V2
 Standard_M128bs_v3,,,128,1024,,13.95,2.57796,uksouth,V2
 Standard_M128bs_v3,,,128,1024,,13.39,2.474472,usgovarizona,V2
-Standard_M128bs_v3,,,128,1024,,13.39,3.562944,usgovvirginia,V2
+Standard_M128bs_v3,,,128,1024,,13.39,2.474472,usgovvirginia,V2
 Standard_M128bs_v3,,,128,1024,,14.5,2.6796,westeurope,V2
 Standard_M128bs_v3,,,128,1024,,11.16,2.062368,westus2,V2
 Standard_M128bs_v3,,,128,1024,,11.16,2.062368,westus3,V2
@@ -56337,7 +56336,7 @@ Standard_M128s_v2,,,128,2048,,17.053,3.151394,uaenorth,V2
 Standard_M128s_v2,,,128,2048,,16.278,3.008174,uksouth,V2
 Standard_M128s_v2,,,128,2048,,15.632,2.888794,ukwest,V2
 Standard_M128s_v2,,,128,2048,,15.5028,2.864917,usgovarizona,V2
-Standard_M128s_v2,,,128,2048,,15.503,3.953057,usgovvirginia,V2
+Standard_M128s_v2,,,128,2048,,15.503,2.864954,usgovvirginia,V2
 Standard_M128s_v2,,,128,2048,,18.087,3.342478,westeurope,V2
 Standard_M128s_v2,,,128,2048,,16.795,3.103716,westus,V2
 Standard_M128s_v2,,,128,2048,,12.919,2.387431,westus2,V2
@@ -56809,7 +56808,7 @@ Standard_M176bs_v3,,,176,1536,,19.175,3.54354,uksouth,V2
 Standard_M176bs_v3,,,176,1536,,18.41,3.402168,usgovarizona,V2
 Standard_M176bs_v3,,,176,1536,,18.41,3.402168,usgovvirginia,V2
 Standard_M176bs_v3,,,176,1536,,19.94,3.684912,westeurope,V2
-Standard_M176bs_v3,,,176,1536,,15.34,2.834832,westus2,V2
+Standard_M176bs_v3,,,176,1536,,15.34,3.58512,westus2,V2
 Standard_M176bs_v3,,,176,1536,,15.34,2.834832,westus3,V2
 Standard_M176ds_3_v3,,,176,2794,,22.761042,4.206241,australiaeast,V2
 Standard_M176ds_3_v3,,,176,2794,,26.6,4.91568,austriaeast,V2
@@ -59593,7 +59592,7 @@ Standard_NC40ads_H100_v5,H100,1,40,320,H100,8.59,1.746347,canadacentral,V2
 Standard_NC40ads_H100_v5,H100,1,40,320,H100,9.772,8.7948,centralindia,V2
 Standard_NC40ads_H100_v5,H100,1,40,320,H100,8.585,2.218364,centralus,V2
 Standard_NC40ads_H100_v5,H100,1,40,320,H100,6.98,2.740348,eastus,V2
-Standard_NC40ads_H100_v5,H100,1,40,320,H100,6.98,6.282,eastus2,V2
+Standard_NC40ads_H100_v5,H100,1,40,320,H100,6.98,7.938,eastus2,V2
 Standard_NC40ads_H100_v5,H100,1,40,320,H100,9.074,3.739395,germanywestcentral,V2
 Standard_NC40ads_H100_v5,H100,1,40,320,H100,8.167,1.610532,indonesiacentral,V2
 Standard_NC40ads_H100_v5,H100,1,40,320,H100,10.121,9.1089,japaneast,V2
