@@ -54047,7 +54047,7 @@ Standard_M416ds_6_v3,,,416,5696,,67.937769,12.5549,malaysiawest,V2
 Standard_M416ds_6_v3,,,416,5696,,65.0356,12.018579,northeurope,V2
 Standard_M416ds_6_v3,,,416,5696,,69.679764,12.87682,southcentralus,V2
 Standard_M416ds_6_v3,,,416,5696,,75.4893,13.950423,southeastasia,V2
-Standard_M416ds_6_v3,,,416,5696,,87.68037,16.203332,southindia,V2
+Standard_M416ds_6_v3,,,416,5696,,87.68037,4.305101,southindia,V2
 Standard_M416ds_6_v3,,,416,5696,,69.678,12.876494,swedencentral,V2
 Standard_M416ds_6_v3,,,416,5696,,77.053671,14.239518,switzerlandnorth,V2
 Standard_M416ds_6_v3,,,416,5696,,83.03508,15.344883,uaenorth,V2
@@ -54062,7 +54062,7 @@ Standard_M416ds_8_v3,,,416,7600,,77.42196,14.307578,eastus,V2
 Standard_M416ds_8_v3,,,416,7600,,77.42196,14.307578,eastus2,V2
 Standard_M416ds_8_v3,,,416,7600,,92.907,17.169214,germanywestcentral,V2
 Standard_M416ds_8_v3,,,416,7600,,92.90637,17.169097,italynorth,V2
-Standard_M416ds_8_v3,,,416,7600,,93.680572,17.31217,japaneast,V2
+Standard_M416ds_8_v3,,,416,7600,,93.680572,4.561418,japaneast,V2
 Standard_M416ds_8_v3,,,416,7600,,93.68057,18.736114,japanwest,V2
 Standard_M416ds_8_v3,,,416,7600,,79.875,,jioindiacentral,V2
 Standard_M416ds_8_v3,,,416,7600,,79.875,,jioindiawest,V2
@@ -54070,7 +54070,7 @@ Standard_M416ds_8_v3,,,416,7600,,90.583695,16.739867,malaysiawest,V2
 Standard_M416ds_8_v3,,,416,7600,,86.7141,16.024766,northeurope,V2
 Standard_M416ds_8_v3,,,416,7600,,92.90637,17.169097,southcentralus,V2
 Standard_M416ds_8_v3,,,416,7600,,100.65249,18.60058,southeastasia,V2
-Standard_M416ds_8_v3,,,416,7600,,116.90716,21.604443,southindia,V2
+Standard_M416ds_8_v3,,,416,7600,,24.683,21.604443,southindia,V2
 Standard_M416ds_8_v3,,,416,7600,,92.907,17.169214,swedencentral,V2
 Standard_M416ds_8_v3,,,416,7600,,102.738231,18.986025,switzerlandnorth,V2
 Standard_M416ds_8_v3,,,416,7600,,110.71341,20.459838,uaenorth,V2
@@ -54227,7 +54227,7 @@ Standard_M416s_6_v3,,,416,5696,,62.49087,11.548313,centralus,V2
 Standard_M416s_6_v3,,,416,5696,,77.42196,15.484392,chilecentral,V2
 Standard_M416s_6_v3,,,416,5696,,55.3014,10.219699,eastus,V2
 Standard_M416s_6_v3,,,416,5696,,55.3014,10.219699,eastus2,V2
-Standard_M416s_6_v3,,,416,5696,,66.36168,4.340045,germanywestcentral,V2
+Standard_M416s_6_v3,,,416,5696,,66.36168,12.263638,germanywestcentral,V2
 Standard_M416s_6_v3,,,416,5696,,66.36168,12.263638,italynorth,V2
 Standard_M416s_6_v3,,,416,5696,,66.914694,12.365835,japaneast,V2
 Standard_M416s_6_v3,,,416,5696,,66.91469,13.382938,japanwest,V2
@@ -54291,7 +54291,7 @@ Standard_M416s_8_v3,,,416,7600,,73.7352,13.626265,eastus,V2
 Standard_M416s_8_v3,,,416,7600,,73.7352,13.626265,eastus2,V2
 Standard_M416s_8_v3,,,416,7600,,88.48224,16.351518,germanywestcentral,V2
 Standard_M416s_8_v3,,,416,7600,,88.48224,16.351518,italynorth,V2
-Standard_M416s_8_v3,,,416,7600,,24.683,16.487781,japaneast,V2
+Standard_M416s_8_v3,,,416,7600,,89.219592,16.487781,japaneast,V2
 Standard_M416s_8_v3,,,416,7600,,89.21959,17.843918,japanwest,V2
 Standard_M416s_8_v3,,,416,7600,,76.077,,jioindiacentral,V2
 Standard_M416s_8_v3,,,416,7600,,76.077,,jioindiawest,V2
@@ -54530,9 +54530,9 @@ Standard_M624ds_12_v3,,,624,11400,,116.13294,21.461367,eastus,V2
 Standard_M624ds_12_v3,,,624,11400,,116.13294,21.461367,eastus2,V2
 Standard_M624ds_12_v3,,,624,11400,,139.356,25.752989,germanywestcentral,V2
 Standard_M624ds_12_v3,,,624,11400,,139.35951,25.753637,italynorth,V2
-Standard_M624ds_12_v3,,,624,11400,,41.184,7.610803,japaneast,V2
+Standard_M624ds_12_v3,,,624,11400,,140.520857,25.968254,japaneast,V2
 Standard_M624ds_12_v3,,,624,11400,,140.52086,28.104172,japanwest,V2
-Standard_M624ds_12_v3,,,624,11400,,119.817,,jioindiacentral,V2
+Standard_M624ds_12_v3,,,624,11400,,41.184,,jioindiacentral,V2
 Standard_M624ds_12_v3,,,624,11400,,119.817,,jioindiawest,V2
 Standard_M624ds_12_v3,,,624,11400,,135.875538,25.109799,malaysiawest,V2
 Standard_M624ds_12_v3,,,624,11400,,130.071235,24.037164,northeurope,V2
@@ -54551,7 +54551,7 @@ Standard_M624s_12_v3,,,624,11400,,124.98174,23.096626,centralus,V2
 Standard_M624s_12_v3,,,624,11400,,154.84392,30.968784,chilecentral,V2
 Standard_M624s_12_v3,,,624,11400,,110.6028,20.439397,eastus,V2
 Standard_M624s_12_v3,,,624,11400,,110.6028,20.439397,eastus2,V2
-Standard_M624s_12_v3,,,624,11400,,41.184,24.527277,germanywestcentral,V2
+Standard_M624s_12_v3,,,624,11400,,132.72336,7.672579,germanywestcentral,V2
 Standard_M624s_12_v3,,,624,11400,,132.72336,24.527277,italynorth,V2
 Standard_M624s_12_v3,,,624,11400,,133.829388,24.731671,japaneast,V2
 Standard_M624s_12_v3,,,624,11400,,133.82939,26.765878,japanwest,V2
@@ -55399,7 +55399,7 @@ Standard_M832is_16_v3,,,832,15200,,185.1581,34.217217,centralus,V2
 Standard_M832is_16_v3,,,832,15200,,229.3984,45.87968,chilecentral,V2
 Standard_M832is_16_v3,,,832,15200,,163.856,30.280589,eastus,V2
 Standard_M832is_16_v3,,,832,15200,,163.856,30.280589,eastus2,V2
-Standard_M832is_16_v3,,,832,15200,,62.677,36.336707,germanywestcentral,V2
+Standard_M832is_16_v3,,,832,15200,,196.6272,36.336707,germanywestcentral,V2
 Standard_M832is_16_v3,,,832,15200,,196.6272,36.336707,italynorth,V2
 Standard_M832is_16_v3,,,832,15200,,198.26576,36.639512,japaneast,V2
 Standard_M832is_16_v3,,,832,15200,,198.26576,39.653152,japanwest,V2
@@ -55422,7 +55422,7 @@ Standard_M832s_12_v3,,,832,11400,,125.383159,23.170808,centralus,V2
 Standard_M832s_12_v3,,,832,11400,,155.34131,31.068262,chilecentral,V2
 Standard_M832s_12_v3,,,832,11400,,110.95808,20.505053,eastus,V2
 Standard_M832s_12_v3,,,832,11400,,110.95808,20.505053,eastus2,V2
-Standard_M832s_12_v3,,,832,11400,,133.149664,10.540109,germanywestcentral,V2
+Standard_M832s_12_v3,,,832,11400,,56.576,10.540109,germanywestcentral,V2
 Standard_M832s_12_v3,,,832,11400,,133.149664,24.606058,italynorth,V2
 Standard_M832s_12_v3,,,832,11400,,134.259277,24.811114,japaneast,V2
 Standard_M832s_12_v3,,,832,11400,,134.25928,26.851856,japanwest,V2
