@@ -19245,7 +19245,7 @@ Standard_DC32ds_v3,,,32,256,,4.352,0.80425,westeurope,,V2
 Standard_DC32ds_v3,,,32,256,,4.256,0.786509,westus,,V2
 Standard_DC32ds_v3,,,32,256,,3.616,0.668237,westus2,,V2
 Standard_DC32eds_v5,,,32,128,,2.043,0.377546,centralus,,V2
-Standard_DC32eds_v5,,,32,128,,1.808,0.334118,eastus2,,V2
+Standard_DC32eds_v5,,,32,128,,3.28,0.334118,eastus2,,V2
 Standard_DC32eds_v5,,,32,128,,2.016,0.372557,northeurope,,V2
 Standard_DC32eds_v5,,,32,128,,2.176,0.402125,westeurope,,V2
 Standard_DC32eds_v6,,,32,128,,1.993,0.368306,eastus,,V2
