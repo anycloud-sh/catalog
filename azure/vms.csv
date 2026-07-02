@@ -78,7 +78,7 @@ Standard_A2_v2,,,2,4,,0.0912,0.016854,qatarcentral,,V1,standardav2family
 Standard_A2_v2,,,2,4,,0.101,0.018665,southafricanorth,,V1,standardav2family
 Standard_A2_v2,,,2,4,,0.0903,0.016687,southcentralus,,V1,standardav2family
 Standard_A2_v2,,,2,4,,0.0945,0.017464,southeastasia,,V1,standardav2family
-Standard_A2_v2,,,2,4,,0.098,0.027166,southindia,,V1,standardav2family
+Standard_A2_v2,,,2,4,,0.098,0.01811,southindia,,V1,standardav2family
 Standard_A2_v2,,,2,4,,0.0861,0.015911,spaincentral,,V1,standardav2family
 Standard_A2_v2,,,2,4,,0.0861,0.014663,swedencentral,,V1,standardav2family
 Standard_A2_v2,,,2,4,,0.0947,0.017501,switzerlandnorth,,V1,standardav2family
@@ -325,7 +325,7 @@ Standard_B12ms,,,12,48,,0.634,,australiacentral,,"V1,V2",standardbsfamily
 Standard_B12ms,,,12,48,,0.634,,australiaeast,,"V1,V2",standardbsfamily
 Standard_B12ms,,,12,48,,0.634,,australiasoutheast,,"V1,V2",standardbsfamily
 Standard_B12ms,,,12,48,,0.576,,austriaeast,,"V1,V2",standardbsfamily
-Standard_B12ms,,,12,48,,0.624,,belgiumcentral,,"V1,V2",standardbsfamily
+Standard_B12ms,,,12,48,,0.576,,belgiumcentral,,"V1,V2",standardbsfamily
 Standard_B12ms,,,12,48,,0.806,,brazilsouth,,"V1,V2",standardbsfamily
 Standard_B12ms,,,12,48,,0.556,,canadacentral,,"V1,V2",standardbsfamily
 Standard_B12ms,,,12,48,,0.557,,canadaeast,,"V1,V2",standardbsfamily
@@ -4567,7 +4567,7 @@ Standard_D16pds_v6,,,16,64,,1.03,0.190344,southafricanorth,,V2,standarddpdsv6fam
 Standard_D16pds_v6,,,16,64,,0.882,0.162994,southcentralus,,V2,standarddpdsv6family
 Standard_D16pds_v6,,,16,64,,0.915,0.18602,southeastasia,,V2,standarddpdsv6family
 Standard_D16pds_v6,,,16,64,,0.821,0.151721,spaincentral,,V2,standarddpdsv6family
-Standard_D16pds_v6,,,16,64,,,0.144514,swedencentral,,V2,standarddpdsv6family
+Standard_D16pds_v6,,,16,64,,0.782,0.144514,swedencentral,,V2,standarddpdsv6family
 Standard_D16pds_v6,,,16,64,,1.146,0.211781,switzerlandnorth,,V2,standarddpdsv6family
 Standard_D16pds_v6,,,16,64,,0.896,0.200346,uaenorth,,V2,standarddpdsv6family
 Standard_D16pds_v6,,,16,64,,0.846,0.111672,uksouth,,V2,standarddpdsv6family
@@ -15575,7 +15575,7 @@ Standard_D8ns_v6,,,8,32,,0.696,0.08352,uksouth,,V2,standarddnv6family
 Standard_D8ns_v6,,,8,32,,0.674,0.124555,ukwest,,V2,standarddnv6family
 Standard_D8ns_v6,,,8,32,,0.668,0.123446,westcentralus,,V2,standarddnv6family
 Standard_D8ns_v6,,,8,32,,0.726,0.134165,westeurope,,V2,standarddnv6family
-Standard_D8ns_v6,,,8,32,,1.081,0.131762,westindia,,V2,standarddnv6family
+Standard_D8ns_v6,,,8,32,,0.713,0.131762,westindia,,V2,standarddnv6family
 Standard_D8ns_v6,,,8,32,,0.65,0.12012,westus,,V2,standarddnv6family
 Standard_D8ns_v6,,,8,32,,0.557,0.102934,westus2,,V2,standarddnv6family
 Standard_D8ns_v6,,,8,32,,0.557,0.102934,westus3,,V2,standarddnv6family
@@ -24765,7 +24765,7 @@ Standard_E20ds_v5,,,20,160,,1.73,0.319704,germanywestcentral,,"V1,V2",standarded
 Standard_E20ds_v5,,,20,160,,1.566,0.289397,indonesiacentral,,"V1,V2",standardedsv5family
 Standard_E20ds_v5,,,20,160,,1.68,0.310464,israelcentral,,"V1,V2",standardedsv5family
 Standard_E20ds_v5,,,20,160,,1.68,0.310464,italynorth,,"V1,V2",standardedsv5family
-Standard_E20ds_v5,,,20,160,,2.66,0.321552,japaneast,,"V1,V2",standardedsv5family
+Standard_E20ds_v5,,,20,160,,1.74,0.321552,japaneast,,"V1,V2",standardedsv5family
 Standard_E20ds_v5,,,20,160,,1.74,0.321552,japanwest,,"V1,V2",standardedsv5family
 Standard_E20ds_v5,,,20,160,,1.73,0.319704,koreacentral,,"V1,V2",standardedsv5family
 Standard_E20ds_v5,,,20,160,,1.656,0.306029,koreasouth,,"V1,V2",standardedsv5family
@@ -29701,7 +29701,7 @@ Standard_E48as_v6,,,48,384,,3.293,0.608546,koreasouth,,V2,standardeav6family
 Standard_E48as_v6,,,48,384,,3.233,0.597458,malaysiawest,,V2,standardeav6family
 Standard_E48as_v6,,,48,384,,3.149,0.581935,mexicocentral,,V2,standardeav6family
 Standard_E48as_v6,,,48,384,,3.595,0.664356,newzealandnorth,,V2,standardeav6family
-Standard_E48as_v6,,,48,384,,5.069,0.528713,northcentralus,,V2,standardeav6family
+Standard_E48as_v6,,,48,384,,2.861,0.528713,northcentralus,,V2,standardeav6family
 Standard_E48as_v6,,,48,384,,3.192,0.589882,northeurope,,V2,standardeav6family
 Standard_E48as_v6,,,48,384,,4.094,0.756571,norwayeast,,V2,standardeav6family
 Standard_E48as_v6,,,48,384,,3.456,0.638669,polandcentral,,V2,standardeav6family
@@ -32435,7 +32435,7 @@ Standard_E64-32as_v5,,,64,512,,4.384,0.810163,japaneast,,"V1,V2",standardeasv5fa
 Standard_E64-32as_v5,,,64,512,,4.384,0.810163,japanwest,,"V1,V2",standardeasv5family
 Standard_E64-32as_v5,,,64,512,,4.352,0.80425,koreacentral,,"V1,V2",standardeasv5family
 Standard_E64-32as_v5,,,64,512,,4.158,0.768398,koreasouth,,"V1,V2",standardeasv5family
-Standard_E64-32as_v5,,,64,512,,6.861,0.723862,malaysiawest,,"V1,V2",standardeasv5family
+Standard_E64-32as_v5,,,64,512,,3.917,0.723862,malaysiawest,,"V1,V2",standardeasv5family
 Standard_E64-32as_v5,,,64,512,,3.978,0.735134,mexicocentral,,"V1,V2",standardeasv5family
 Standard_E64-32as_v5,,,64,512,,4.57,0.844536,newzealandnorth,,"V1,V2",standardeasv5family
 Standard_E64-32as_v5,,,64,512,,3.616,0.668237,northcentralus,,"V1,V2",standardeasv5family
@@ -51454,7 +51454,7 @@ Standard_NC36ds_xl_RTXPRO6000BSE_v6,,1,36,132,,1.442,0.2884,eastus,,V2,standardn
 Standard_NC36ds_xl_RTXPRO6000BSE_v6,,1,36,132,,1.442,0.2884,eastus2,,V2,standardncdsrtxpro6000bsev6xlfamily
 Standard_NC36ds_xl_RTXPRO6000BSE_v6,,1,36,132,,1.874,0.3748,germanywestcentral,,V2,standardncdsrtxpro6000bsev6xlfamily
 Standard_NC36ds_xl_RTXPRO6000BSE_v6,,1,36,132,,2.092,0.4184,japaneast,,V2,standardncdsrtxpro6000bsev6xlfamily
-Standard_NC36ds_xl_RTXPRO6000BSE_v6,,1,36,132,,3.604,0.3896,koreacentral,,V2,standardncdsrtxpro6000bsev6xlfamily
+Standard_NC36ds_xl_RTXPRO6000BSE_v6,,1,36,132,,1.948,0.3896,koreacentral,,V2,standardncdsrtxpro6000bsev6xlfamily
 Standard_NC36ds_xl_RTXPRO6000BSE_v6,,1,36,132,,2.063,0.4126,northeurope,,V2,standardncdsrtxpro6000bsev6xlfamily
 Standard_NC36ds_xl_RTXPRO6000BSE_v6,,1,36,132,,1.73,0.346,southcentralus,,V2,standardncdsrtxpro6000bsev6xlfamily
 Standard_NC36ds_xl_RTXPRO6000BSE_v6,,1,36,132,,2.019,0.4038,southeastasia,,V2,standardncdsrtxpro6000bsev6xlfamily
