@@ -257,25 +257,25 @@
       "rawNames": [
         "StandardDndv6Family"
       ],
-      "regions": "centralus,eastasia,germanywestcentral,southcentralus,uksouth,westcentralus,westus"
+      "regions": "centralus,eastasia,eastus,germanywestcentral,southcentralus,uksouth,westcentralus,westus"
     },
     "azure:standarddnldv6family": {
       "rawNames": [
         "StandardDnldv6Family"
       ],
-      "regions": "centralus,eastasia,germanywestcentral,southcentralus,uksouth,westcentralus,westus"
+      "regions": "centralus,eastasia,eastus,germanywestcentral,southcentralus,uksouth,westcentralus,westus"
     },
     "azure:standarddnlv6family": {
       "rawNames": [
         "StandardDnlv6Family"
       ],
-      "regions": "centralus,eastasia,germanywestcentral,southcentralus,uksouth,westcentralus,westus"
+      "regions": "centralus,eastasia,eastus,germanywestcentral,southcentralus,uksouth,westcentralus,westus"
     },
     "azure:standarddnv6family": {
       "rawNames": [
         "StandardDnv6Family"
       ],
-      "regions": "centralus,eastasia,germanywestcentral,southcentralus,uksouth,westcentralus,westus"
+      "regions": "centralus,eastasia,eastus,germanywestcentral,southcentralus,uksouth,westcentralus,westus"
     },
     "azure:standarddpdsv5family": {
       "rawNames": [
@@ -629,13 +629,13 @@
       "rawNames": [
         "StandardEndv6Family"
       ],
-      "regions": "centralus,eastasia,germanywestcentral,southcentralus,uksouth,westcentralus,westus"
+      "regions": "centralus,eastasia,eastus,germanywestcentral,southcentralus,uksouth,westcentralus,westus"
     },
     "azure:standardenv6family": {
       "rawNames": [
         "StandardEnv6Family"
       ],
-      "regions": "centralus,eastasia,germanywestcentral,southcentralus,uksouth,westcentralus,westus"
+      "regions": "centralus,eastasia,eastus,germanywestcentral,southcentralus,uksouth,westcentralus,westus"
     },
     "azure:standardepdsv5family": {
       "rawNames": [
