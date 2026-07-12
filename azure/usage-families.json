@@ -169,19 +169,19 @@
   },
   "standarddndv6family": {
     "raw": "StandardDndv6Family",
-    "regions": "canadacentral,centralus,eastasia,eastus,germanywestcentral,southcentralus,uksouth,westcentralus,westus"
+    "regions": "austriaeast,belgiumcentral,canadacentral,centralus,chilecentral,denmarkeast,eastasia,eastus,germanywestcentral,indonesiacentral,southcentralus,uksouth,westcentralus,westus"
   },
   "standarddnldv6family": {
     "raw": "StandardDnldv6Family",
-    "regions": "canadacentral,centralus,eastasia,eastus,germanywestcentral,southcentralus,uksouth,westcentralus,westus"
+    "regions": "austriaeast,belgiumcentral,canadacentral,centralus,chilecentral,denmarkeast,eastasia,eastus,germanywestcentral,indonesiacentral,southcentralus,uksouth,westcentralus,westus"
   },
   "standarddnlv6family": {
     "raw": "StandardDnlv6Family",
-    "regions": "canadacentral,centralus,eastasia,eastus,germanywestcentral,southcentralus,uksouth,westcentralus,westus"
+    "regions": "austriaeast,belgiumcentral,canadacentral,centralus,chilecentral,denmarkeast,eastasia,eastus,germanywestcentral,indonesiacentral,southcentralus,uksouth,westcentralus,westus"
   },
   "standarddnv6family": {
     "raw": "StandardDnv6Family",
-    "regions": "canadacentral,centralus,eastasia,eastus,germanywestcentral,southcentralus,uksouth,westcentralus,westus"
+    "regions": "austriaeast,belgiumcentral,canadacentral,centralus,chilecentral,denmarkeast,eastasia,eastus,germanywestcentral,indonesiacentral,southcentralus,uksouth,westcentralus,westus"
   },
   "standarddpdsv5family": {
     "raw": "standardDPDSv5Family",
@@ -417,11 +417,11 @@
   },
   "standardendv6family": {
     "raw": "StandardEndv6Family",
-    "regions": "canadacentral,centralus,eastasia,eastus,germanywestcentral,southcentralus,uksouth,westcentralus,westus"
+    "regions": "austriaeast,belgiumcentral,canadacentral,centralus,chilecentral,denmarkeast,eastasia,eastus,germanywestcentral,indonesiacentral,southcentralus,uksouth,westcentralus,westus"
   },
   "standardenv6family": {
     "raw": "StandardEnv6Family",
-    "regions": "canadacentral,centralus,eastasia,eastus,germanywestcentral,southcentralus,uksouth,westcentralus,westus"
+    "regions": "austriaeast,belgiumcentral,canadacentral,centralus,chilecentral,denmarkeast,eastasia,eastus,germanywestcentral,indonesiacentral,southcentralus,uksouth,westcentralus,westus"
   },
   "standardepdsv5family": {
     "raw": "standardEPDSv5Family",
