@@ -169,19 +169,19 @@
   },
   "standarddndv6family": {
     "raw": "StandardDndv6Family",
-    "regions": "austriaeast,belgiumcentral,canadacentral,centralus,chilecentral,denmarkeast,eastasia,eastus,germanywestcentral,indonesiacentral,koreacentral,mexicocentral,newzealandnorth,northcentralus,polandcentral,qatarcentral,southcentralus,spaincentral,uksouth,westcentralus,westeurope,westindia,westus,westus2"
+    "regions": "austriaeast,belgiumcentral,canadacentral,centralus,chilecentral,denmarkeast,eastasia,eastus,germanywestcentral,indonesiacentral,koreacentral,mexicocentral,newzealandnorth,northcentralus,polandcentral,qatarcentral,southcentralus,southeastasia,spaincentral,uksouth,westcentralus,westeurope,westindia,westus,westus2"
   },
   "standarddnldv6family": {
     "raw": "StandardDnldv6Family",
-    "regions": "austriaeast,belgiumcentral,canadacentral,centralus,chilecentral,denmarkeast,eastasia,eastus,germanywestcentral,indonesiacentral,koreacentral,mexicocentral,newzealandnorth,northcentralus,polandcentral,qatarcentral,southcentralus,spaincentral,uksouth,westcentralus,westeurope,westindia,westus,westus2"
+    "regions": "austriaeast,belgiumcentral,canadacentral,centralus,chilecentral,denmarkeast,eastasia,eastus,germanywestcentral,indonesiacentral,koreacentral,mexicocentral,newzealandnorth,northcentralus,polandcentral,qatarcentral,southcentralus,southeastasia,spaincentral,uksouth,westcentralus,westeurope,westindia,westus,westus2"
   },
   "standarddnlv6family": {
     "raw": "StandardDnlv6Family",
-    "regions": "austriaeast,belgiumcentral,canadacentral,centralus,chilecentral,denmarkeast,eastasia,eastus,germanywestcentral,indonesiacentral,koreacentral,mexicocentral,newzealandnorth,northcentralus,polandcentral,qatarcentral,southcentralus,spaincentral,uksouth,westcentralus,westeurope,westindia,westus,westus2"
+    "regions": "austriaeast,belgiumcentral,canadacentral,centralus,chilecentral,denmarkeast,eastasia,eastus,germanywestcentral,indonesiacentral,koreacentral,mexicocentral,newzealandnorth,northcentralus,polandcentral,qatarcentral,southcentralus,southeastasia,spaincentral,uksouth,westcentralus,westeurope,westindia,westus,westus2"
   },
   "standarddnv6family": {
     "raw": "StandardDnv6Family",
-    "regions": "austriaeast,belgiumcentral,canadacentral,centralus,chilecentral,denmarkeast,eastasia,eastus,germanywestcentral,indonesiacentral,koreacentral,mexicocentral,newzealandnorth,northcentralus,polandcentral,qatarcentral,southcentralus,spaincentral,uksouth,westcentralus,westeurope,westindia,westus,westus2"
+    "regions": "austriaeast,belgiumcentral,canadacentral,centralus,chilecentral,denmarkeast,eastasia,eastus,germanywestcentral,indonesiacentral,koreacentral,mexicocentral,newzealandnorth,northcentralus,polandcentral,qatarcentral,southcentralus,southeastasia,spaincentral,uksouth,westcentralus,westeurope,westindia,westus,westus2"
   },
   "standarddpdsv5family": {
     "raw": "standardDPDSv5Family",
@@ -417,11 +417,11 @@
   },
   "standardendv6family": {
     "raw": "StandardEndv6Family",
-    "regions": "austriaeast,belgiumcentral,canadacentral,centralus,chilecentral,denmarkeast,eastasia,eastus,germanywestcentral,indonesiacentral,koreacentral,mexicocentral,newzealandnorth,northcentralus,polandcentral,qatarcentral,southcentralus,spaincentral,uksouth,westcentralus,westeurope,westindia,westus,westus2"
+    "regions": "austriaeast,belgiumcentral,canadacentral,centralus,chilecentral,denmarkeast,eastasia,eastus,germanywestcentral,indonesiacentral,koreacentral,mexicocentral,newzealandnorth,northcentralus,polandcentral,qatarcentral,southcentralus,southeastasia,spaincentral,uksouth,westcentralus,westeurope,westindia,westus,westus2"
   },
   "standardenv6family": {
     "raw": "StandardEnv6Family",
-    "regions": "austriaeast,belgiumcentral,canadacentral,centralus,chilecentral,denmarkeast,eastasia,eastus,germanywestcentral,indonesiacentral,koreacentral,mexicocentral,newzealandnorth,northcentralus,polandcentral,qatarcentral,southcentralus,spaincentral,uksouth,westcentralus,westeurope,westindia,westus,westus2"
+    "regions": "austriaeast,belgiumcentral,canadacentral,centralus,chilecentral,denmarkeast,eastasia,eastus,germanywestcentral,indonesiacentral,koreacentral,mexicocentral,newzealandnorth,northcentralus,polandcentral,qatarcentral,southcentralus,southeastasia,spaincentral,uksouth,westcentralus,westeurope,westindia,westus,westus2"
   },
   "standardepdsv5family": {
     "raw": "standardEPDSv5Family",
