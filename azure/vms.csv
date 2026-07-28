@@ -52380,13 +52380,6 @@ Standard_NV24ads_V710_v5,,,24,128,,2.4,0.44352,southcentralus,,V2,standardnvadsv
 Standard_NV24ads_V710_v5,,,24,128,,2.6,0.48048,spaincentral,,V2,standardnvadsv710v5family,true
 Standard_NV24ads_V710_v5,,,24,128,,2.6,0.48048,westeurope,,V2,standardnvadsv710v5family,true
 Standard_NV24ads_V710_v5,,,24,128,,2.6,0.48048,westus,,V2,standardnvadsv710v5family,true
-Standard_NV28adms_V710_v5,,,28,160,,3.48,0.643104,australiaeast,,V2,standardnvadsv710v5family,true
-Standard_NV28adms_V710_v5,,,28,160,,2.4,0.44352,eastus,,V2,standardnvadsv710v5family,true
-Standard_NV28adms_V710_v5,,,28,160,,2.88,0.532224,northcentralus,,V2,standardnvadsv710v5family,true
-Standard_NV28adms_V710_v5,,,28,160,,2.88,0.532224,southcentralus,,V2,standardnvadsv710v5family,true
-Standard_NV28adms_V710_v5,,,28,160,,3.12,0.576576,spaincentral,,V2,standardnvadsv710v5family,true
-Standard_NV28adms_V710_v5,,,28,160,,3.12,0.576576,westeurope,,V2,standardnvadsv710v5family,true
-Standard_NV28adms_V710_v5,,,28,160,,3.12,0.576576,westus,,V2,standardnvadsv710v5family,true
 Standard_NV32as_v4,MI25,1,32,112,MI25,2.703,0.499514,australiaeast,,"V1,V2",standardnvsv4family,true
 Standard_NV32as_v4,MI25,1,32,112,MI25,2.237,0.413398,canadacentral,,"V1,V2",standardnvsv4family,true
 Standard_NV32as_v4,MI25,1,32,112,MI25,2.61,0.482328,centralindia,,"V1,V2",standardnvsv4family,true
