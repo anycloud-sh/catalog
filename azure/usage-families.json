@@ -107,6 +107,10 @@
     "raw": "standardDCEV6Family",
     "regions": "westeurope,westus,westus3"
   },
+  "standarddcsv2family": {
+    "raw": "standardDCSv2Family",
+    "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,denmarkeast,eastasia,eastus,eastus2,francecentral,germanywestcentral,indiasouthcentral,indonesiacentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,koreasouth,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,qatarcentral,southafricanorth,southcentralus,southeastasia,southindia,spaincentral,swedencentral,switzerlandnorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westindia,westus,westus2,westus3"
+  },
   "standarddcsv3family": {
     "raw": "standardDCSv3Family",
     "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,denmarkeast,eastasia,eastus,eastus2,francecentral,germanywestcentral,indiasouthcentral,indonesiacentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,koreasouth,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,qatarcentral,southafricanorth,southcentralus,southeastasia,southindia,spaincentral,swedencentral,switzerlandnorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westindia,westus,westus2,westus3"
