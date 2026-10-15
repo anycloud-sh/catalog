@@ -15192,6 +15192,7 @@ g4-standard-384,RTXPRO6000,8,384,1440,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 983
 g4-standard-384,RTXPRO6000,8,384,1440,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},43.19933,18.36112,asia-southeast1,asia-southeast1-c,,,
 g4-standard-384,RTXPRO6000,8,384,1440,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},46.79672,20.10384,asia-southeast2,asia-southeast2-b,,,
 g4-standard-384,RTXPRO6000,8,384,1440,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},46.79672,20.10384,asia-southeast2,asia-southeast2-c,,,
+g4-standard-384,RTXPRO6000,8,384,1440,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},46.79927,17.79776,australia-southeast2,australia-southeast2-c,,,
 g4-standard-384,RTXPRO6000,8,384,1440,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},39.59938,16.4344,europe-north1,europe-north1-a,,,
 g4-standard-384,RTXPRO6000,8,384,1440,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},39.59938,16.4344,europe-north1,europe-north1-b,,,
 g4-standard-384,RTXPRO6000,8,384,1440,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},39.59938,16.4344,europe-north1,europe-north1-c,,,
