@@ -565,7 +565,7 @@
   },
   "standardlasv5family": {
     "raw": "standardLasv5Family",
-    "regions": "northeurope,southcentralus,westeurope,westus2,westus3"
+    "regions": "northeurope,southcentralus,uksouth,westeurope,westus2,westus3"
   },
   "standardlsfamily": {
     "raw": "standardLSFamily",

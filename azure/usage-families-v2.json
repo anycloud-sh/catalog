@@ -851,7 +851,7 @@
       "rawNames": [
         "standardLasv5Family"
       ],
-      "regions": "northeurope,southcentralus,westeurope,westus2,westus3"
+      "regions": "northeurope,southcentralus,uksouth,westeurope,westus2,westus3"
     },
     "azure:standardlsfamily": {
       "rawNames": [
