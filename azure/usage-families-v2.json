@@ -995,7 +995,7 @@
       "rawNames": [
         "StandardNCdsRTXPRO6000BSEv6XLFamily"
       ],
-      "regions": "eastus,southcentralus,southeastasia,spaincentral,westus2"
+      "regions": "eastus,koreacentral,southcentralus,southeastasia,spaincentral,westus2"
     },
     "azure:standardncsv3family": {
       "rawNames": [

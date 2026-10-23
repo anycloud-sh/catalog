@@ -661,7 +661,7 @@
   },
   "standardncdsrtxpro6000bsev6xlfamily": {
     "raw": "StandardNCdsRTXPRO6000BSEv6XLFamily",
-    "regions": "eastus,southcentralus,southeastasia,spaincentral,westus2"
+    "regions": "eastus,koreacentral,southcentralus,southeastasia,spaincentral,westus2"
   },
   "standardncsv3family": {
     "raw": "standardNCSv3Family",
