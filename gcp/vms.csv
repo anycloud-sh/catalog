@@ -109,7 +109,6 @@ a2-ultragpu-4g,A100-80GB,4,48,680,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}
 a2-ultragpu-4g,A100-80GB,4,48,680,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},22.09528,7.44652,us-east5,us-east5-b,,,,
 a2-ultragpu-8g,A100-80GB,8,96,1360,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},49.61984,28.73872,asia-southeast1,asia-southeast1-c,,,,
 a2-ultragpu-8g,A100-80GB,8,96,1360,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},44.2857,24.5788,europe-west4,europe-west4-a,,,,
-a2-ultragpu-8g,A100-80GB,8,96,1360,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},44.2857,24.5788,europe-west4,europe-west4-b,,,,
 a2-ultragpu-8g,A100-80GB,8,96,1360,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},40.22162,24.13264,us-central1,us-central1-a,,,,
 a2-ultragpu-8g,A100-80GB,8,96,1360,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},40.22162,24.13264,us-central1,us-central1-c,,,,
 a2-ultragpu-8g,A100-80GB,8,96,1360,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},45.30022,20.01536,us-east4,us-east4-c,,,,
