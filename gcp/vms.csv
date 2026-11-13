@@ -2589,6 +2589,7 @@ c3-highmem-176,,,176,1408,,13.73886,5.02339,europe-west3,europe-west3-c,,,,true
 c3-highmem-176,,,176,1408,,12.22526,7.33533,europe-west4,europe-west4-a,,,,true
 c3-highmem-176,,,176,1408,,12.22526,7.33533,europe-west4,europe-west4-b,,,,true
 c3-highmem-176,,,176,1408,,12.22526,7.33533,europe-west4,europe-west4-c,,,,true
+c3-highmem-176,,,176,1408,,13.506,1.21898,europe-west8,europe-west8-b,,,,true
 c3-highmem-176,,,176,1408,,13.506,1.21898,europe-west8,europe-west8-c,,,,true
 c3-highmem-176,,,176,1408,,14.14637,1.27389,me-central1,me-central1-a,,,,true
 c3-highmem-176,,,176,1408,,18.62897,2.86669,me-central2,me-central2-a,,,,true
@@ -2669,6 +2670,7 @@ c3-highmem-22,,,22,176,,1.71736,0.62792,europe-west3,europe-west3-c,,,,true
 c3-highmem-22,,,22,176,,1.52816,0.91692,europe-west4,europe-west4-a,,,,true
 c3-highmem-22,,,22,176,,1.52816,0.91692,europe-west4,europe-west4-b,,,,true
 c3-highmem-22,,,22,176,,1.52816,0.91692,europe-west4,europe-west4-c,,,,true
+c3-highmem-22,,,22,176,,1.68825,0.15237,europe-west8,europe-west8-b,,,,true
 c3-highmem-22,,,22,176,,1.68825,0.15237,europe-west8,europe-west8-c,,,,true
 c3-highmem-22,,,22,176,,1.7683,0.15924,me-central1,me-central1-a,,,,true
 c3-highmem-22,,,22,176,,2.32862,0.35834,me-central2,me-central2-a,,,,true
@@ -2723,6 +2725,7 @@ c3-highmem-4,,,4,32,,0.31225,0.11417,europe-west3,europe-west3-c,,,,true
 c3-highmem-4,,,4,32,,0.27785,0.16671,europe-west4,europe-west4-a,,,,true
 c3-highmem-4,,,4,32,,0.27785,0.16671,europe-west4,europe-west4-b,,,,true
 c3-highmem-4,,,4,32,,0.27785,0.16671,europe-west4,europe-west4-c,,,,true
+c3-highmem-4,,,4,32,,0.30695,0.0277,europe-west8,europe-west8-b,,,,true
 c3-highmem-4,,,4,32,,0.30695,0.0277,europe-west8,europe-west8-c,,,,true
 c3-highmem-4,,,4,32,,0.32151,0.02895,me-central1,me-central1-a,,,,true
 c3-highmem-4,,,4,32,,0.42339,0.06515,me-central2,me-central2-a,,,,true
@@ -2777,6 +2780,7 @@ c3-highmem-44,,,44,352,,3.43472,1.25585,europe-west3,europe-west3-c,,,,true
 c3-highmem-44,,,44,352,,3.05631,1.83383,europe-west4,europe-west4-a,,,,true
 c3-highmem-44,,,44,352,,3.05631,1.83383,europe-west4,europe-west4-b,,,,true
 c3-highmem-44,,,44,352,,3.05631,1.83383,europe-west4,europe-west4-c,,,,true
+c3-highmem-44,,,44,352,,3.3765,0.30474,europe-west8,europe-west8-b,,,,true
 c3-highmem-44,,,44,352,,3.3765,0.30474,europe-west8,europe-west8-c,,,,true
 c3-highmem-44,,,44,352,,3.53659,0.31847,me-central1,me-central1-a,,,,true
 c3-highmem-44,,,44,352,,4.65724,0.71667,me-central2,me-central2-a,,,,true
@@ -2831,6 +2835,7 @@ c3-highmem-8,,,8,64,,0.62449,0.22834,europe-west3,europe-west3-c,,,,true
 c3-highmem-8,,,8,64,,0.55569,0.33342,europe-west4,europe-west4-a,,,,true
 c3-highmem-8,,,8,64,,0.55569,0.33342,europe-west4,europe-west4-b,,,,true
 c3-highmem-8,,,8,64,,0.55569,0.33342,europe-west4,europe-west4-c,,,,true
+c3-highmem-8,,,8,64,,0.61391,0.05541,europe-west8,europe-west8-b,,,,true
 c3-highmem-8,,,8,64,,0.61391,0.05541,europe-west8,europe-west8-c,,,,true
 c3-highmem-8,,,8,64,,0.64302,0.0579,me-central1,me-central1-a,,,,true
 c3-highmem-8,,,8,64,,0.84677,0.1303,me-central2,me-central2-a,,,,true
@@ -2885,6 +2890,7 @@ c3-highmem-88,,,88,704,,6.86943,2.5117,europe-west3,europe-west3-c,,,,true
 c3-highmem-88,,,88,704,,6.11263,3.66766,europe-west4,europe-west4-a,,,,true
 c3-highmem-88,,,88,704,,6.11263,3.66766,europe-west4,europe-west4-b,,,,true
 c3-highmem-88,,,88,704,,6.11263,3.66766,europe-west4,europe-west4-c,,,,true
+c3-highmem-88,,,88,704,,6.753,0.60949,europe-west8,europe-west8-b,,,,true
 c3-highmem-88,,,88,704,,6.753,0.60949,europe-west8,europe-west8-c,,,,true
 c3-highmem-88,,,88,704,,7.07319,0.63694,me-central1,me-central1-a,,,,true
 c3-highmem-88,,,88,704,,9.31448,1.43334,me-central2,me-central2-a,,,,true
@@ -2942,6 +2948,7 @@ c3-standard-176,,,176,704,,10.46749,3.8273,europe-west3,europe-west3-c,,,,true
 c3-standard-176,,,176,704,,9.31429,5.5887,europe-west4,europe-west4-a,,,,true
 c3-standard-176,,,176,704,,9.31429,5.5887,europe-west4,europe-west4-b,,,,true
 c3-standard-176,,,176,704,,9.31429,5.5887,europe-west4,europe-west4-c,,,,true
+c3-standard-176,,,176,704,,10.29007,0.92893,europe-west8,europe-west8-b,,,,true
 c3-standard-176,,,176,704,,10.29007,0.92893,europe-west8,europe-west8-c,,,,true
 c3-standard-176,,,176,704,,10.29007,2.10637,europe-west9,europe-west9-a,,,,true
 c3-standard-176,,,176,704,,10.29007,2.10637,europe-west9,europe-west9-b,,,,true
@@ -3079,6 +3086,7 @@ c3-standard-22,,,22,88,,1.30844,0.47841,europe-west3,europe-west3-c,,,,true
 c3-standard-22,,,22,88,,1.16429,0.69859,europe-west4,europe-west4-a,,,,true
 c3-standard-22,,,22,88,,1.16429,0.69859,europe-west4,europe-west4-b,,,,true
 c3-standard-22,,,22,88,,1.16429,0.69859,europe-west4,europe-west4-c,,,,true
+c3-standard-22,,,22,88,,1.28626,0.11612,europe-west8,europe-west8-b,,,,true
 c3-standard-22,,,22,88,,1.28626,0.11612,europe-west8,europe-west8-c,,,,true
 c3-standard-22,,,22,88,,1.28626,0.2633,europe-west9,europe-west9-a,,,,true
 c3-standard-22,,,22,88,,1.28626,0.2633,europe-west9,europe-west9-b,,,,true
@@ -3196,6 +3204,7 @@ c3-standard-4,,,4,16,,0.2379,0.08698,europe-west3,europe-west3-c,,,,true
 c3-standard-4,,,4,16,,0.21169,0.12702,europe-west4,europe-west4-a,,,,true
 c3-standard-4,,,4,16,,0.21169,0.12702,europe-west4,europe-west4-b,,,,true
 c3-standard-4,,,4,16,,0.21169,0.12702,europe-west4,europe-west4-c,,,,true
+c3-standard-4,,,4,16,,0.23387,0.02111,europe-west8,europe-west8-b,,,,true
 c3-standard-4,,,4,16,,0.23387,0.02111,europe-west8,europe-west8-c,,,,true
 c3-standard-4,,,4,16,,0.23387,0.04787,europe-west9,europe-west9-a,,,,true
 c3-standard-4,,,4,16,,0.23387,0.04787,europe-west9,europe-west9-b,,,,true
@@ -3313,6 +3322,7 @@ c3-standard-44,,,44,176,,2.61687,0.95682,europe-west3,europe-west3-c,,,,true
 c3-standard-44,,,44,176,,2.32857,1.39718,europe-west4,europe-west4-a,,,,true
 c3-standard-44,,,44,176,,2.32857,1.39718,europe-west4,europe-west4-b,,,,true
 c3-standard-44,,,44,176,,2.32857,1.39718,europe-west4,europe-west4-c,,,,true
+c3-standard-44,,,44,176,,2.57252,0.23223,europe-west8,europe-west8-b,,,,true
 c3-standard-44,,,44,176,,2.57252,0.23223,europe-west8,europe-west8-c,,,,true
 c3-standard-44,,,44,176,,2.57252,0.52659,europe-west9,europe-west9-a,,,,true
 c3-standard-44,,,44,176,,2.57252,0.52659,europe-west9,europe-west9-b,,,,true
@@ -3430,6 +3440,7 @@ c3-standard-8,,,8,32,,0.47579,0.17397,europe-west3,europe-west3-c,,,,true
 c3-standard-8,,,8,32,,0.42338,0.25403,europe-west4,europe-west4-a,,,,true
 c3-standard-8,,,8,32,,0.42338,0.25403,europe-west4,europe-west4-b,,,,true
 c3-standard-8,,,8,32,,0.42338,0.25403,europe-west4,europe-west4-c,,,,true
+c3-standard-8,,,8,32,,0.46773,0.04222,europe-west8,europe-west8-b,,,,true
 c3-standard-8,,,8,32,,0.46773,0.04222,europe-west8,europe-west8-c,,,,true
 c3-standard-8,,,8,32,,0.46773,0.09574,europe-west9,europe-west9-a,,,,true
 c3-standard-8,,,8,32,,0.46773,0.09574,europe-west9,europe-west9-b,,,,true
@@ -3547,6 +3558,7 @@ c3-standard-88,,,88,352,,5.23374,1.91365,europe-west3,europe-west3-c,,,,true
 c3-standard-88,,,88,352,,4.65714,2.79435,europe-west4,europe-west4-a,,,,true
 c3-standard-88,,,88,352,,4.65714,2.79435,europe-west4,europe-west4-b,,,,true
 c3-standard-88,,,88,352,,4.65714,2.79435,europe-west4,europe-west4-c,,,,true
+c3-standard-88,,,88,352,,5.14504,0.46446,europe-west8,europe-west8-b,,,,true
 c3-standard-88,,,88,352,,5.14504,0.46446,europe-west8,europe-west8-c,,,,true
 c3-standard-88,,,88,352,,5.14504,1.05318,europe-west9,europe-west9-a,,,,true
 c3-standard-88,,,88,352,,5.14504,1.05318,europe-west9,europe-west9-b,,,,true
