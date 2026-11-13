@@ -553,7 +553,7 @@
   },
   "standardlaosv5family": {
     "raw": "standardLaosv5Family",
-    "regions": "eastasia,eastus,southcentralus,westcentralus,westus3"
+    "regions": "eastasia,eastus,germanywestcentral,southcentralus,westcentralus,westus3"
   },
   "standardlasv3family": {
     "raw": "standardLASv3Family",
@@ -661,7 +661,7 @@
   },
   "standardncdsrtxpro6000bsev6xlfamily": {
     "raw": "StandardNCdsRTXPRO6000BSEv6XLFamily",
-    "regions": "eastasia,eastus,koreacentral,northeurope,southcentralus,southeastasia,spaincentral,westcentralus,westus2"
+    "regions": "eastasia,eastus,germanywestcentral,koreacentral,northeurope,southcentralus,southeastasia,spaincentral,westcentralus,westus2"
   },
   "standardncsv3family": {
     "raw": "standardNCSv3Family",

@@ -833,7 +833,7 @@
       "rawNames": [
         "standardLaosv5Family"
       ],
-      "regions": "eastasia,eastus,southcentralus,westcentralus,westus3"
+      "regions": "eastasia,eastus,germanywestcentral,southcentralus,westcentralus,westus3"
     },
     "azure:standardlasv3family": {
       "rawNames": [
@@ -995,7 +995,7 @@
       "rawNames": [
         "StandardNCdsRTXPRO6000BSEv6XLFamily"
       ],
-      "regions": "eastasia,eastus,koreacentral,northeurope,southcentralus,southeastasia,spaincentral,westcentralus,westus2"
+      "regions": "eastasia,eastus,germanywestcentral,koreacentral,northeurope,southcentralus,southeastasia,spaincentral,westcentralus,westus2"
     },
     "azure:standardncsv3family": {
       "rawNames": [
