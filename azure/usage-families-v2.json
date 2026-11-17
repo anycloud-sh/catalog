@@ -277,6 +277,12 @@
       ],
       "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,denmarkeast,eastasia,eastus,eastus2,francecentral,germanywestcentral,indiasouthcentral,indonesiacentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,koreasouth,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,qatarcentral,southafricanorth,southcentralus,southeastasia,southeastasia3,southindia,spaincentral,swedencentral,switzerlandnorth,taiwannorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westindia,westus,westus2,westus3"
     },
+    "azure:standarddpdsv7family": {
+      "rawNames": [
+        "StandardDpdsv7Family"
+      ],
+      "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,denmarkeast,eastasia,eastus,eastus2,francecentral,germanywestcentral,indiasouthcentral,indonesiacentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,koreasouth,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,qatarcentral,southafricanorth,southcentralus,southeastasia,southindia,spaincentral,swedencentral,switzerlandnorth,taiwannorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westindia,westus,westus2,westus3"
+    },
     "azure:standarddpldsv5family": {
       "rawNames": [
         "standardDPLDSv5Family"
@@ -288,6 +294,12 @@
         "StandardDpldsv6Family"
       ],
       "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,denmarkeast,eastasia,eastus,eastus2,francecentral,germanywestcentral,indiasouthcentral,indonesiacentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,koreasouth,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,qatarcentral,southafricanorth,southcentralus,southeastasia,southeastasia3,southindia,spaincentral,swedencentral,switzerlandnorth,taiwannorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westindia,westus,westus2,westus3"
+    },
+    "azure:standarddpldsv7family": {
+      "rawNames": [
+        "StandardDpldsv7Family"
+      ],
+      "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,denmarkeast,eastasia,eastus,eastus2,francecentral,germanywestcentral,indiasouthcentral,indonesiacentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,koreasouth,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,qatarcentral,southafricanorth,southcentralus,southeastasia,southindia,spaincentral,swedencentral,switzerlandnorth,taiwannorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westindia,westus,westus2,westus3"
     },
     "azure:standarddplsv5family": {
       "rawNames": [
@@ -301,6 +313,12 @@
       ],
       "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,denmarkeast,eastasia,eastus,eastus2,francecentral,germanywestcentral,indiasouthcentral,indonesiacentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,koreasouth,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,qatarcentral,southafricanorth,southcentralus,southeastasia,southeastasia3,southindia,spaincentral,swedencentral,switzerlandnorth,taiwannorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westindia,westus,westus2,westus3"
     },
+    "azure:standarddplsv7family": {
+      "rawNames": [
+        "StandardDplsv7Family"
+      ],
+      "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,denmarkeast,eastasia,eastus,eastus2,francecentral,germanywestcentral,indiasouthcentral,indonesiacentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,koreasouth,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,qatarcentral,southafricanorth,southcentralus,southeastasia,southindia,spaincentral,swedencentral,switzerlandnorth,taiwannorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westindia,westus,westus2,westus3"
+    },
     "azure:standarddpsv5family": {
       "rawNames": [
         "standardDPSv5Family"
@@ -312,6 +330,12 @@
         "StandardDpsv6Family"
       ],
       "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,denmarkeast,eastasia,eastus,eastus2,francecentral,germanywestcentral,indiasouthcentral,indonesiacentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,koreasouth,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,qatarcentral,southafricanorth,southcentralus,southeastasia,southeastasia3,southindia,spaincentral,swedencentral,switzerlandnorth,taiwannorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westindia,westus,westus2,westus3"
+    },
+    "azure:standarddpsv7family": {
+      "rawNames": [
+        "StandardDpsv7Family"
+      ],
+      "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,denmarkeast,eastasia,eastus,eastus2,francecentral,germanywestcentral,indiasouthcentral,indonesiacentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,koreasouth,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,qatarcentral,southafricanorth,southcentralus,southeastasia,southindia,spaincentral,swedencentral,switzerlandnorth,taiwannorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westindia,westus,westus2,westus3"
     },
     "azure:standarddsfamily": {
       "rawNames": [
@@ -625,6 +649,12 @@
       ],
       "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,denmarkeast,eastasia,eastus,eastus2,francecentral,germanywestcentral,indiasouthcentral,indonesiacentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,koreasouth,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,qatarcentral,southafricanorth,southcentralus,southeastasia,southeastasia3,southindia,spaincentral,swedencentral,switzerlandnorth,taiwannorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westindia,westus,westus2,westus3"
     },
+    "azure:standardepdsv7family": {
+      "rawNames": [
+        "StandardEpdsv7Family"
+      ],
+      "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,denmarkeast,eastasia,eastus,eastus2,francecentral,germanywestcentral,indiasouthcentral,indonesiacentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,koreasouth,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,qatarcentral,southafricanorth,southcentralus,southeastasia,southindia,spaincentral,swedencentral,switzerlandnorth,taiwannorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westindia,westus,westus2,westus3"
+    },
     "azure:standardepsv5family": {
       "rawNames": [
         "standardEPSv5Family"
@@ -636,6 +666,12 @@
         "StandardEpsv6Family"
       ],
       "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,denmarkeast,eastasia,eastus,eastus2,francecentral,germanywestcentral,indiasouthcentral,indonesiacentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,koreasouth,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,qatarcentral,southafricanorth,southcentralus,southeastasia,southeastasia3,southindia,spaincentral,swedencentral,switzerlandnorth,taiwannorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westindia,westus,westus2,westus3"
+    },
+    "azure:standardepsv7family": {
+      "rawNames": [
+        "StandardEpsv7Family"
+      ],
+      "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,denmarkeast,eastasia,eastus,eastus2,francecentral,germanywestcentral,indiasouthcentral,indonesiacentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,koreasouth,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,qatarcentral,southafricanorth,southcentralus,southeastasia,southindia,spaincentral,swedencentral,switzerlandnorth,taiwannorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westindia,westus,westus2,westus3"
     },
     "azure:standardesv3family": {
       "rawNames": [
@@ -833,7 +869,7 @@
       "rawNames": [
         "standardLaosv5Family"
       ],
-      "regions": "austriaeast,belgiumcentral,centralus,chilecentral,denmarkeast,eastasia,eastus,germanywestcentral,indonesiacentral,koreacentral,malaysiawest,mexicocentral,newzealandnorth,northcentralus,polandcentral,qatarcentral,southcentralus,spaincentral,taiwannorth,uksouth,westcentralus,westindia,westus3"
+      "regions": "austriaeast,belgiumcentral,centralus,chilecentral,denmarkeast,eastasia,eastus,germanywestcentral,indonesiacentral,koreacentral,malaysiawest,mexicocentral,newzealandnorth,northcentralus,polandcentral,qatarcentral,southcentralus,spaincentral,taiwannorth,uksouth,westcentralus,westindia,westus,westus2,westus3"
     },
     "azure:standardlasv3family": {
       "rawNames": [
@@ -852,6 +888,12 @@
         "standardLasv5Family"
       ],
       "regions": "austriaeast,belgiumcentral,brazilsouth,centralus,chilecentral,denmarkeast,eastasia,eastus,eastus2,germanywestcentral,indonesiacentral,italynorth,koreacentral,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,polandcentral,qatarcentral,southcentralus,spaincentral,taiwannorth,uksouth,westcentralus,westeurope,westindia,westus,westus2,westus3"
+    },
+    "azure:standardlpsv5family": {
+      "rawNames": [
+        "standardLpsv5Family"
+      ],
+      "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,denmarkeast,eastasia,eastus,eastus2,francecentral,germanywestcentral,indiasouthcentral,indonesiacentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,koreasouth,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,qatarcentral,southafricanorth,southcentralus,southeastasia,southindia,spaincentral,swedencentral,switzerlandnorth,taiwannorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westindia,westus,westus2,westus3"
     },
     "azure:standardlsfamily": {
       "rawNames": [
@@ -931,6 +973,18 @@
       ],
       "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,denmarkeast,eastasia,eastus,eastus2,francecentral,germanywestcentral,indiasouthcentral,indonesiacentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,koreasouth,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,qatarcentral,southafricanorth,southcentralus,southeastasia,southeastasia3,southindia,spaincentral,swedencentral,switzerlandnorth,taiwannorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westindia,westus,westus2,westus3"
     },
+    "azure:standardmpdsv4family": {
+      "rawNames": [
+        "StandardMpdsv4Family"
+      ],
+      "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,denmarkeast,eastasia,eastus,eastus2,francecentral,germanywestcentral,indiasouthcentral,indonesiacentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,koreasouth,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,qatarcentral,southafricanorth,southcentralus,southeastasia,southindia,spaincentral,swedencentral,switzerlandnorth,taiwannorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westindia,westus,westus2,westus3"
+    },
+    "azure:standardmpsv4family": {
+      "rawNames": [
+        "StandardMpsv4Family"
+      ],
+      "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,denmarkeast,eastasia,eastus,eastus2,francecentral,germanywestcentral,indiasouthcentral,indonesiacentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,koreasouth,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,qatarcentral,southafricanorth,southcentralus,southeastasia,southindia,spaincentral,swedencentral,switzerlandnorth,taiwannorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westindia,westus,westus2,westus3"
+    },
     "azure:standardmsfamily": {
       "rawNames": [
         "standardMSFamily"
@@ -995,7 +1049,7 @@
       "rawNames": [
         "StandardNCdsRTXPRO6000BSEv6XLFamily"
       ],
-      "regions": "austriaeast,belgiumcentral,centralus,chilecentral,denmarkeast,eastasia,eastus,germanywestcentral,indonesiacentral,koreacentral,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,polandcentral,qatarcentral,southcentralus,southeastasia,spaincentral,taiwannorth,uksouth,westcentralus,westindia,westus2"
+      "regions": "austriaeast,belgiumcentral,centralus,chilecentral,denmarkeast,eastasia,eastus,germanywestcentral,indonesiacentral,koreacentral,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,polandcentral,qatarcentral,southcentralus,southeastasia,spaincentral,taiwannorth,uksouth,westcentralus,westindia,westus,westus2"
     },
     "azure:standardncsv3family": {
       "rawNames": [
