@@ -313,7 +313,7 @@
   },
   "standardebdsv6family": {
     "raw": "StandardEbdsv6Family",
-    "regions": "australiacentral,brazilsouth,canadacentral,centralindia,centralus,eastasia,japaneast,northcentralus,northeurope,swedencentral,uksouth,westcentralus,westus2"
+    "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,eastasia,eastus,eastus2,francecentral,germanywestcentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,southafricanorth,southcentralus,southeastasia,southindia,spaincentral,swedencentral,switzerlandnorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westus,westus2,westus3"
   },
   "standardebsv5family": {
     "raw": "standardEBSv5Family",
@@ -321,7 +321,7 @@
   },
   "standardebsv6family": {
     "raw": "StandardEbsv6Family",
-    "regions": "australiacentral,brazilsouth,canadacentral,centralindia,centralus,eastasia,japaneast,northcentralus,northeurope,swedencentral,uksouth,westcentralus,westus2"
+    "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,eastasia,eastus,eastus2,francecentral,germanywestcentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,southafricanorth,southcentralus,southeastasia,southindia,spaincentral,swedencentral,switzerlandnorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westus,westus2,westus3"
   },
   "standardecaccv5family": {
     "raw": "standardECACCV5Family",
