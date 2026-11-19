@@ -10523,6 +10523,7 @@ c4d-highcpu-16,,,16,30,,0.62812,0.24847,us-east5,us-east5-c,,,,false
 c4d-highcpu-16,,,16,30,,0.62812,0.26432,us-west1,us-west1-a,,,,false
 c4d-highcpu-16,,,16,30,,0.62812,0.26432,us-west1,us-west1-b,,,,false
 c4d-highcpu-16,,,16,30,,0.62812,0.26432,us-west1,us-west1-c,,,,false
+c4d-highcpu-16,,,16,30,,0.75507,0.28578,us-west2,us-west2-a,,,,false
 c4d-highcpu-16,,,16,30,,0.75507,0.27154,us-west3,us-west3-a,,,,false
 c4d-highcpu-16,,,16,30,,0.70746,0.1371,us-west4,us-west4-a,,,,false
 c4d-highcpu-16,,,16,30,,0.70746,0.1371,us-west4,us-west4-b,,,,false
@@ -10570,6 +10571,7 @@ c4d-highcpu-192,,,192,360,,7.53748,2.98164,us-east5,us-east5-c,,,,false
 c4d-highcpu-192,,,192,360,,7.53748,3.17184,us-west1,us-west1-a,,,,false
 c4d-highcpu-192,,,192,360,,7.53748,3.17184,us-west1,us-west1-b,,,,false
 c4d-highcpu-192,,,192,360,,7.53748,3.17184,us-west1,us-west1-c,,,,false
+c4d-highcpu-192,,,192,360,,9.06081,3.42936,us-west2,us-west2-a,,,,false
 c4d-highcpu-192,,,192,360,,9.06081,3.25848,us-west3,us-west3-a,,,,false
 c4d-highcpu-192,,,192,360,,8.48947,1.6452,us-west4,us-west4-a,,,,false
 c4d-highcpu-192,,,192,360,,8.48947,1.6452,us-west4,us-west4-b,,,,false
@@ -10617,6 +10619,7 @@ c4d-highcpu-2,,,2,3,,0.07589,0.03002,us-east5,us-east5-c,,,,false
 c4d-highcpu-2,,,2,3,,0.07589,0.03194,us-west1,us-west1-a,,,,false
 c4d-highcpu-2,,,2,3,,0.07589,0.03194,us-west1,us-west1-b,,,,false
 c4d-highcpu-2,,,2,3,,0.07589,0.03194,us-west1,us-west1-c,,,,false
+c4d-highcpu-2,,,2,3,,0.09123,0.03453,us-west2,us-west2-a,,,,false
 c4d-highcpu-2,,,2,3,,0.09123,0.03281,us-west3,us-west3-a,,,,false
 c4d-highcpu-2,,,2,3,,0.08548,0.01657,us-west4,us-west4-a,,,,false
 c4d-highcpu-2,,,2,3,,0.08548,0.01657,us-west4,us-west4-b,,,,false
@@ -10664,6 +10667,7 @@ c4d-highcpu-32,,,32,60,,1.25625,0.49694,us-east5,us-east5-c,,,,false
 c4d-highcpu-32,,,32,60,,1.25625,0.52864,us-west1,us-west1-a,,,,false
 c4d-highcpu-32,,,32,60,,1.25625,0.52864,us-west1,us-west1-b,,,,false
 c4d-highcpu-32,,,32,60,,1.25625,0.52864,us-west1,us-west1-c,,,,false
+c4d-highcpu-32,,,32,60,,1.51013,0.57156,us-west2,us-west2-a,,,,false
 c4d-highcpu-32,,,32,60,,1.51013,0.54308,us-west3,us-west3-a,,,,false
 c4d-highcpu-32,,,32,60,,1.41491,0.2742,us-west4,us-west4-a,,,,false
 c4d-highcpu-32,,,32,60,,1.41491,0.2742,us-west4,us-west4-b,,,,false
@@ -10711,6 +10715,7 @@ c4d-highcpu-384,,,384,720,,15.07496,5.96328,us-east5,us-east5-c,,,,false
 c4d-highcpu-384,,,384,720,,15.07496,6.34368,us-west1,us-west1-a,,,,false
 c4d-highcpu-384,,,384,720,,15.07496,6.34368,us-west1,us-west1-b,,,,false
 c4d-highcpu-384,,,384,720,,15.07496,6.34368,us-west1,us-west1-c,,,,false
+c4d-highcpu-384,,,384,720,,18.12162,6.85872,us-west2,us-west2-a,,,,false
 c4d-highcpu-384,,,384,720,,18.12162,6.51696,us-west3,us-west3-a,,,,false
 c4d-highcpu-384,,,384,720,,16.97895,3.2904,us-west4,us-west4-a,,,,false
 c4d-highcpu-384,,,384,720,,16.97895,3.2904,us-west4,us-west4-b,,,,false
@@ -10762,6 +10767,7 @@ c4d-highcpu-4,,,4,7,,0.15528,0.06143,us-east5,us-east5-c,,,,false
 c4d-highcpu-4,,,4,7,,0.15528,0.06534,us-west1,us-west1-a,,,,false
 c4d-highcpu-4,,,4,7,,0.15528,0.06534,us-west1,us-west1-b,,,,false
 c4d-highcpu-4,,,4,7,,0.15528,0.06534,us-west1,us-west1-c,,,,false
+c4d-highcpu-4,,,4,7,,0.18667,0.07065,us-west2,us-west2-a,,,,false
 c4d-highcpu-4,,,4,7,,0.18667,0.06713,us-west3,us-west3-a,,,,false
 c4d-highcpu-4,,,4,7,,0.1749,0.03389,us-west4,us-west4-a,,,,false
 c4d-highcpu-4,,,4,7,,0.1749,0.03389,us-west4,us-west4-b,,,,false
@@ -10809,6 +10815,7 @@ c4d-highcpu-48,,,48,90,,1.88437,0.74541,us-east5,us-east5-c,,,,false
 c4d-highcpu-48,,,48,90,,1.88437,0.79296,us-west1,us-west1-a,,,,false
 c4d-highcpu-48,,,48,90,,1.88437,0.79296,us-west1,us-west1-b,,,,false
 c4d-highcpu-48,,,48,90,,1.88437,0.79296,us-west1,us-west1-c,,,,false
+c4d-highcpu-48,,,48,90,,2.2652,0.85734,us-west2,us-west2-a,,,,false
 c4d-highcpu-48,,,48,90,,2.2652,0.81462,us-west3,us-west3-a,,,,false
 c4d-highcpu-48,,,48,90,,2.12237,0.4113,us-west4,us-west4-a,,,,false
 c4d-highcpu-48,,,48,90,,2.12237,0.4113,us-west4,us-west4-b,,,,false
@@ -10856,6 +10863,7 @@ c4d-highcpu-64,,,64,120,,2.51249,0.99388,us-east5,us-east5-c,,,,false
 c4d-highcpu-64,,,64,120,,2.51249,1.05728,us-west1,us-west1-a,,,,false
 c4d-highcpu-64,,,64,120,,2.51249,1.05728,us-west1,us-west1-b,,,,false
 c4d-highcpu-64,,,64,120,,2.51249,1.05728,us-west1,us-west1-c,,,,false
+c4d-highcpu-64,,,64,120,,3.02027,1.14312,us-west2,us-west2-a,,,,false
 c4d-highcpu-64,,,64,120,,3.02027,1.08616,us-west3,us-west3-a,,,,false
 c4d-highcpu-64,,,64,120,,2.82982,0.5484,us-west4,us-west4-a,,,,false
 c4d-highcpu-64,,,64,120,,2.82982,0.5484,us-west4,us-west4-b,,,,false
@@ -10903,6 +10911,7 @@ c4d-highcpu-8,,,8,15,,0.31406,0.12424,us-east5,us-east5-c,,,,false
 c4d-highcpu-8,,,8,15,,0.31406,0.13216,us-west1,us-west1-a,,,,false
 c4d-highcpu-8,,,8,15,,0.31406,0.13216,us-west1,us-west1-b,,,,false
 c4d-highcpu-8,,,8,15,,0.31406,0.13216,us-west1,us-west1-c,,,,false
+c4d-highcpu-8,,,8,15,,0.37753,0.14289,us-west2,us-west2-a,,,,false
 c4d-highcpu-8,,,8,15,,0.37753,0.13577,us-west3,us-west3-a,,,,false
 c4d-highcpu-8,,,8,15,,0.35373,0.06855,us-west4,us-west4-a,,,,false
 c4d-highcpu-8,,,8,15,,0.35373,0.06855,us-west4,us-west4-b,,,,false
@@ -10950,6 +10959,7 @@ c4d-highcpu-96,,,96,180,,3.76874,1.49082,us-east5,us-east5-c,,,,false
 c4d-highcpu-96,,,96,180,,3.76874,1.58592,us-west1,us-west1-a,,,,false
 c4d-highcpu-96,,,96,180,,3.76874,1.58592,us-west1,us-west1-b,,,,false
 c4d-highcpu-96,,,96,180,,3.76874,1.58592,us-west1,us-west1-c,,,,false
+c4d-highcpu-96,,,96,180,,4.5304,1.71468,us-west2,us-west2-a,,,,false
 c4d-highcpu-96,,,96,180,,4.5304,1.62924,us-west3,us-west3-a,,,,false
 c4d-highcpu-96,,,96,180,,4.24474,0.8226,us-west4,us-west4-a,,,,false
 c4d-highcpu-96,,,96,180,,4.24474,0.8226,us-west4,us-west4-b,,,,false
@@ -11004,6 +11014,7 @@ c4d-highmem-16,,,16,126,,0.9637,0.38105,us-east5,us-east5-c,,,,false
 c4d-highmem-16,,,16,126,,0.9637,0.40563,us-west1,us-west1-a,,,,false
 c4d-highmem-16,,,16,126,,0.9637,0.40563,us-west1,us-west1-b,,,,false
 c4d-highmem-16,,,16,126,,0.9637,0.40563,us-west1,us-west1-c,,,,false
+c4d-highmem-16,,,16,126,,1.15846,0.43842,us-west2,us-west2-a,,,,false
 c4d-highmem-16,,,16,126,,1.15846,0.4165,us-west3,us-west3-a,,,,false
 c4d-highmem-16,,,16,126,,1.08541,0.21025,us-west4,us-west4-a,,,,false
 c4d-highmem-16,,,16,126,,1.08541,0.21025,us-west4,us-west4-b,,,,false
@@ -11042,6 +11053,7 @@ c4d-highmem-16-lssd,,,16,126,,0.9637,0.38105,us-east5,us-east5-b,,,,false
 c4d-highmem-16-lssd,,,16,126,,0.9637,0.38105,us-east5,us-east5-c,,,,false
 c4d-highmem-16-lssd,,,16,126,,0.9637,0.40563,us-west1,us-west1-a,,,,false
 c4d-highmem-16-lssd,,,16,126,,0.9637,0.40563,us-west1,us-west1-c,,,,false
+c4d-highmem-16-lssd,,,16,126,,1.15846,0.43842,us-west2,us-west2-a,,,,false
 c4d-highmem-16-lssd,,,16,126,,1.15846,0.4165,us-west3,us-west3-a,,,,false
 c4d-highmem-16-lssd,,,16,126,,1.08541,0.21025,us-west4,us-west4-a,,,,false
 c4d-highmem-16-lssd,,,16,126,,1.08541,0.21025,us-west4,us-west4-c,,,,false
@@ -11095,6 +11107,7 @@ c4d-highmem-192,,,192,1512,,11.56439,4.57255,us-east5,us-east5-c,,,,false
 c4d-highmem-192,,,192,1512,,11.56439,4.86758,us-west1,us-west1-a,,,,false
 c4d-highmem-192,,,192,1512,,11.56439,4.86758,us-west1,us-west1-b,,,,false
 c4d-highmem-192,,,192,1512,,11.56439,4.86758,us-west1,us-west1-c,,,,false
+c4d-highmem-192,,,192,1512,,13.90155,5.26104,us-west2,us-west2-a,,,,false
 c4d-highmem-192,,,192,1512,,13.90155,4.998,us-west3,us-west3-a,,,,false
 c4d-highmem-192,,,192,1512,,13.02498,2.52302,us-west4,us-west4-a,,,,false
 c4d-highmem-192,,,192,1512,,13.02498,2.52302,us-west4,us-west4-b,,,,false
@@ -11133,6 +11146,7 @@ c4d-highmem-192-lssd,,,192,1512,,11.56439,4.57255,us-east5,us-east5-b,,,,false
 c4d-highmem-192-lssd,,,192,1512,,11.56439,4.57255,us-east5,us-east5-c,,,,false
 c4d-highmem-192-lssd,,,192,1512,,11.56439,4.86758,us-west1,us-west1-a,,,,false
 c4d-highmem-192-lssd,,,192,1512,,11.56439,4.86758,us-west1,us-west1-c,,,,false
+c4d-highmem-192-lssd,,,192,1512,,13.90155,5.26104,us-west2,us-west2-a,,,,false
 c4d-highmem-192-lssd,,,192,1512,,13.90155,4.998,us-west3,us-west3-a,,,,false
 c4d-highmem-192-lssd,,,192,1512,,13.02498,2.52302,us-west4,us-west4-a,,,,false
 c4d-highmem-192-lssd,,,192,1512,,13.02498,2.52302,us-west4,us-west4-c,,,,false
@@ -11186,6 +11200,7 @@ c4d-highmem-2,,,2,15,,0.11784,0.0466,us-east5,us-east5-c,,,,false
 c4d-highmem-2,,,2,15,,0.11784,0.0496,us-west1,us-west1-a,,,,false
 c4d-highmem-2,,,2,15,,0.11784,0.0496,us-west1,us-west1-b,,,,false
 c4d-highmem-2,,,2,15,,0.11784,0.0496,us-west1,us-west1-c,,,,false
+c4d-highmem-2,,,2,15,,0.14166,0.05361,us-west2,us-west2-a,,,,false
 c4d-highmem-2,,,2,15,,0.14166,0.05093,us-west3,us-west3-a,,,,false
 c4d-highmem-2,,,2,15,,0.13272,0.02571,us-west4,us-west4-a,,,,false
 c4d-highmem-2,,,2,15,,0.13272,0.02571,us-west4,us-west4-b,,,,false
@@ -11240,6 +11255,7 @@ c4d-highmem-32,,,32,252,,1.9274,0.76209,us-east5,us-east5-c,,,,false
 c4d-highmem-32,,,32,252,,1.9274,0.81126,us-west1,us-west1-a,,,,false
 c4d-highmem-32,,,32,252,,1.9274,0.81126,us-west1,us-west1-b,,,,false
 c4d-highmem-32,,,32,252,,1.9274,0.81126,us-west1,us-west1-c,,,,false
+c4d-highmem-32,,,32,252,,2.31693,0.87684,us-west2,us-west2-a,,,,false
 c4d-highmem-32,,,32,252,,2.31693,0.833,us-west3,us-west3-a,,,,false
 c4d-highmem-32,,,32,252,,2.17083,0.4205,us-west4,us-west4-a,,,,false
 c4d-highmem-32,,,32,252,,2.17083,0.4205,us-west4,us-west4-b,,,,false
@@ -11278,6 +11294,7 @@ c4d-highmem-32-lssd,,,32,252,,1.9274,0.76209,us-east5,us-east5-b,,,,false
 c4d-highmem-32-lssd,,,32,252,,1.9274,0.76209,us-east5,us-east5-c,,,,false
 c4d-highmem-32-lssd,,,32,252,,1.9274,0.81126,us-west1,us-west1-a,,,,false
 c4d-highmem-32-lssd,,,32,252,,1.9274,0.81126,us-west1,us-west1-c,,,,false
+c4d-highmem-32-lssd,,,32,252,,2.31693,0.87684,us-west2,us-west2-a,,,,false
 c4d-highmem-32-lssd,,,32,252,,2.31693,0.833,us-west3,us-west3-a,,,,false
 c4d-highmem-32-lssd,,,32,252,,2.17083,0.4205,us-west4,us-west4-a,,,,false
 c4d-highmem-32-lssd,,,32,252,,2.17083,0.4205,us-west4,us-west4-c,,,,false
@@ -11331,6 +11348,7 @@ c4d-highmem-384,,,384,3024,,23.12877,9.1451,us-east5,us-east5-c,,,,false
 c4d-highmem-384,,,384,3024,,23.12877,9.73517,us-west1,us-west1-a,,,,false
 c4d-highmem-384,,,384,3024,,23.12877,9.73517,us-west1,us-west1-b,,,,false
 c4d-highmem-384,,,384,3024,,23.12877,9.73517,us-west1,us-west1-c,,,,false
+c4d-highmem-384,,,384,3024,,27.8031,10.52208,us-west2,us-west2-a,,,,false
 c4d-highmem-384,,,384,3024,,27.8031,9.996,us-west3,us-west3-a,,,,false
 c4d-highmem-384,,,384,3024,,26.04996,5.04605,us-west4,us-west4-a,,,,false
 c4d-highmem-384,,,384,3024,,26.04996,5.04605,us-west4,us-west4-b,,,,false
@@ -11369,6 +11387,7 @@ c4d-highmem-384-lssd,,,384,3024,,23.12877,9.1451,us-east5,us-east5-b,,,,false
 c4d-highmem-384-lssd,,,384,3024,,23.12877,9.1451,us-east5,us-east5-c,,,,false
 c4d-highmem-384-lssd,,,384,3024,,23.12877,9.73517,us-west1,us-west1-a,,,,false
 c4d-highmem-384-lssd,,,384,3024,,23.12877,9.73517,us-west1,us-west1-c,,,,false
+c4d-highmem-384-lssd,,,384,3024,,27.8031,10.52208,us-west2,us-west2-a,,,,false
 c4d-highmem-384-lssd,,,384,3024,,27.8031,9.996,us-west3,us-west3-a,,,,false
 c4d-highmem-384-lssd,,,384,3024,,26.04996,5.04605,us-west4,us-west4-a,,,,false
 c4d-highmem-384-lssd,,,384,3024,,26.04996,5.04605,us-west4,us-west4-c,,,,false
@@ -11427,6 +11446,7 @@ c4d-highmem-4,,,4,31,,0.23918,0.09457,us-east5,us-east5-c,,,,false
 c4d-highmem-4,,,4,31,,0.23918,0.10067,us-west1,us-west1-a,,,,false
 c4d-highmem-4,,,4,31,,0.23918,0.10067,us-west1,us-west1-b,,,,false
 c4d-highmem-4,,,4,31,,0.23918,0.10067,us-west1,us-west1-c,,,,false
+c4d-highmem-4,,,4,31,,0.28751,0.10881,us-west2,us-west2-a,,,,false
 c4d-highmem-4,,,4,31,,0.28751,0.10337,us-west3,us-west3-a,,,,false
 c4d-highmem-4,,,4,31,,0.26939,0.05218,us-west4,us-west4-a,,,,false
 c4d-highmem-4,,,4,31,,0.26939,0.05218,us-west4,us-west4-b,,,,false
@@ -11481,6 +11501,7 @@ c4d-highmem-48,,,48,378,,2.8911,1.14314,us-east5,us-east5-c,,,,false
 c4d-highmem-48,,,48,378,,2.8911,1.2169,us-west1,us-west1-a,,,,false
 c4d-highmem-48,,,48,378,,2.8911,1.2169,us-west1,us-west1-b,,,,false
 c4d-highmem-48,,,48,378,,2.8911,1.2169,us-west1,us-west1-c,,,,false
+c4d-highmem-48,,,48,378,,3.47539,1.31526,us-west2,us-west2-a,,,,false
 c4d-highmem-48,,,48,378,,3.47539,1.2495,us-west3,us-west3-a,,,,false
 c4d-highmem-48,,,48,378,,3.25624,0.63076,us-west4,us-west4-a,,,,false
 c4d-highmem-48,,,48,378,,3.25624,0.63076,us-west4,us-west4-b,,,,false
@@ -11519,6 +11540,7 @@ c4d-highmem-48-lssd,,,48,378,,2.8911,1.14314,us-east5,us-east5-b,,,,false
 c4d-highmem-48-lssd,,,48,378,,2.8911,1.14314,us-east5,us-east5-c,,,,false
 c4d-highmem-48-lssd,,,48,378,,2.8911,1.2169,us-west1,us-west1-a,,,,false
 c4d-highmem-48-lssd,,,48,378,,2.8911,1.2169,us-west1,us-west1-c,,,,false
+c4d-highmem-48-lssd,,,48,378,,3.47539,1.31526,us-west2,us-west2-a,,,,false
 c4d-highmem-48-lssd,,,48,378,,3.47539,1.2495,us-west3,us-west3-a,,,,false
 c4d-highmem-48-lssd,,,48,378,,3.25624,0.63076,us-west4,us-west4-a,,,,false
 c4d-highmem-48-lssd,,,48,378,,3.25624,0.63076,us-west4,us-west4-c,,,,false
@@ -11572,6 +11594,7 @@ c4d-highmem-64,,,64,504,,3.8548,1.52418,us-east5,us-east5-c,,,,false
 c4d-highmem-64,,,64,504,,3.8548,1.62253,us-west1,us-west1-a,,,,false
 c4d-highmem-64,,,64,504,,3.8548,1.62253,us-west1,us-west1-b,,,,false
 c4d-highmem-64,,,64,504,,3.8548,1.62253,us-west1,us-west1-c,,,,false
+c4d-highmem-64,,,64,504,,4.63385,1.75368,us-west2,us-west2-a,,,,false
 c4d-highmem-64,,,64,504,,4.63385,1.666,us-west3,us-west3-a,,,,false
 c4d-highmem-64,,,64,504,,4.34166,0.84101,us-west4,us-west4-a,,,,false
 c4d-highmem-64,,,64,504,,4.34166,0.84101,us-west4,us-west4-b,,,,false
@@ -11610,6 +11633,7 @@ c4d-highmem-64-lssd,,,64,504,,3.8548,1.52418,us-east5,us-east5-b,,,,false
 c4d-highmem-64-lssd,,,64,504,,3.8548,1.52418,us-east5,us-east5-c,,,,false
 c4d-highmem-64-lssd,,,64,504,,3.8548,1.62253,us-west1,us-west1-a,,,,false
 c4d-highmem-64-lssd,,,64,504,,3.8548,1.62253,us-west1,us-west1-c,,,,false
+c4d-highmem-64-lssd,,,64,504,,4.63385,1.75368,us-west2,us-west2-a,,,,false
 c4d-highmem-64-lssd,,,64,504,,4.63385,1.666,us-west3,us-west3-a,,,,false
 c4d-highmem-64-lssd,,,64,504,,4.34166,0.84101,us-west4,us-west4-a,,,,false
 c4d-highmem-64-lssd,,,64,504,,4.34166,0.84101,us-west4,us-west4-c,,,,false
@@ -11663,6 +11687,7 @@ c4d-highmem-8,,,8,63,,0.48185,0.19052,us-east5,us-east5-c,,,,false
 c4d-highmem-8,,,8,63,,0.48185,0.20282,us-west1,us-west1-a,,,,false
 c4d-highmem-8,,,8,63,,0.48185,0.20282,us-west1,us-west1-b,,,,false
 c4d-highmem-8,,,8,63,,0.48185,0.20282,us-west1,us-west1-c,,,,false
+c4d-highmem-8,,,8,63,,0.57923,0.21921,us-west2,us-west2-a,,,,false
 c4d-highmem-8,,,8,63,,0.57923,0.20825,us-west3,us-west3-a,,,,false
 c4d-highmem-8,,,8,63,,0.54271,0.10513,us-west4,us-west4-a,,,,false
 c4d-highmem-8,,,8,63,,0.54271,0.10513,us-west4,us-west4-b,,,,false
@@ -11701,6 +11726,7 @@ c4d-highmem-8-lssd,,,8,63,,0.48185,0.19052,us-east5,us-east5-b,,,,false
 c4d-highmem-8-lssd,,,8,63,,0.48185,0.19052,us-east5,us-east5-c,,,,false
 c4d-highmem-8-lssd,,,8,63,,0.48185,0.20282,us-west1,us-west1-a,,,,false
 c4d-highmem-8-lssd,,,8,63,,0.48185,0.20282,us-west1,us-west1-c,,,,false
+c4d-highmem-8-lssd,,,8,63,,0.57923,0.21921,us-west2,us-west2-a,,,,false
 c4d-highmem-8-lssd,,,8,63,,0.57923,0.20825,us-west3,us-west3-a,,,,false
 c4d-highmem-8-lssd,,,8,63,,0.54271,0.10513,us-west4,us-west4-a,,,,false
 c4d-highmem-8-lssd,,,8,63,,0.54271,0.10513,us-west4,us-west4-c,,,,false
@@ -11754,6 +11780,7 @@ c4d-highmem-96,,,96,756,,5.78219,2.28628,us-east5,us-east5-c,,,,false
 c4d-highmem-96,,,96,756,,5.78219,2.43379,us-west1,us-west1-a,,,,false
 c4d-highmem-96,,,96,756,,5.78219,2.43379,us-west1,us-west1-b,,,,false
 c4d-highmem-96,,,96,756,,5.78219,2.43379,us-west1,us-west1-c,,,,false
+c4d-highmem-96,,,96,756,,6.95078,2.63052,us-west2,us-west2-a,,,,false
 c4d-highmem-96,,,96,756,,6.95078,2.499,us-west3,us-west3-a,,,,false
 c4d-highmem-96,,,96,756,,6.51249,1.26151,us-west4,us-west4-a,,,,false
 c4d-highmem-96,,,96,756,,6.51249,1.26151,us-west4,us-west4-b,,,,false
@@ -11792,6 +11819,7 @@ c4d-highmem-96-lssd,,,96,756,,5.78219,2.28628,us-east5,us-east5-b,,,,false
 c4d-highmem-96-lssd,,,96,756,,5.78219,2.28628,us-east5,us-east5-c,,,,false
 c4d-highmem-96-lssd,,,96,756,,5.78219,2.43379,us-west1,us-west1-a,,,,false
 c4d-highmem-96-lssd,,,96,756,,5.78219,2.43379,us-west1,us-west1-c,,,,false
+c4d-highmem-96-lssd,,,96,756,,6.95078,2.63052,us-west2,us-west2-a,,,,false
 c4d-highmem-96-lssd,,,96,756,,6.95078,2.499,us-west3,us-west3-a,,,,false
 c4d-highmem-96-lssd,,,96,756,,6.51249,1.26151,us-west4,us-west4-a,,,,false
 c4d-highmem-96-lssd,,,96,756,,6.51249,1.26151,us-west4,us-west4-c,,,,false
@@ -11838,6 +11866,7 @@ c4d-standard-16,,,16,62,,0.73998,0.29266,us-east5,us-east5-c,,,,false
 c4d-standard-16,,,16,62,,0.73998,0.31142,us-west1,us-west1-a,,,,false
 c4d-standard-16,,,16,62,,0.73998,0.31142,us-west1,us-west1-b,,,,false
 c4d-standard-16,,,16,62,,0.73998,0.31142,us-west1,us-west1-c,,,,false
+c4d-standard-16,,,16,62,,0.88953,0.33666,us-west2,us-west2-a,,,,false
 c4d-standard-16,,,16,62,,0.88953,0.31986,us-west3,us-west3-a,,,,false
 c4d-standard-16,,,16,62,,0.83344,0.16148,us-west4,us-west4-a,,,,false
 c4d-standard-16,,,16,62,,0.83344,0.16148,us-west4,us-west4-b,,,,false
@@ -11876,6 +11905,7 @@ c4d-standard-16-lssd,,,16,62,,0.73998,0.29266,us-east5,us-east5-b,,,,false
 c4d-standard-16-lssd,,,16,62,,0.73998,0.29266,us-east5,us-east5-c,,,,false
 c4d-standard-16-lssd,,,16,62,,0.73998,0.31142,us-west1,us-west1-a,,,,false
 c4d-standard-16-lssd,,,16,62,,0.73998,0.31142,us-west1,us-west1-c,,,,false
+c4d-standard-16-lssd,,,16,62,,0.88953,0.33666,us-west2,us-west2-a,,,,false
 c4d-standard-16-lssd,,,16,62,,0.88953,0.31986,us-west3,us-west3-a,,,,false
 c4d-standard-16-lssd,,,16,62,,0.83344,0.16148,us-west4,us-west4-a,,,,false
 c4d-standard-16-lssd,,,16,62,,0.83344,0.16148,us-west4,us-west4-c,,,,false
@@ -11922,6 +11952,7 @@ c4d-standard-192,,,192,744,,8.87978,3.51194,us-east5,us-east5-c,,,,false
 c4d-standard-192,,,192,744,,8.87978,3.73709,us-west1,us-west1-a,,,,false
 c4d-standard-192,,,192,744,,8.87978,3.73709,us-west1,us-west1-b,,,,false
 c4d-standard-192,,,192,744,,8.87978,3.73709,us-west1,us-west1-c,,,,false
+c4d-standard-192,,,192,744,,10.67439,4.03992,us-west2,us-west2-a,,,,false
 c4d-standard-192,,,192,744,,10.67439,3.83832,us-west3,us-west3-a,,,,false
 c4d-standard-192,,,192,744,,10.00131,1.93781,us-west4,us-west4-a,,,,false
 c4d-standard-192,,,192,744,,10.00131,1.93781,us-west4,us-west4-b,,,,false
@@ -11960,6 +11991,7 @@ c4d-standard-192-lssd,,,192,744,,8.87978,3.51194,us-east5,us-east5-b,,,,false
 c4d-standard-192-lssd,,,192,744,,8.87978,3.51194,us-east5,us-east5-c,,,,false
 c4d-standard-192-lssd,,,192,744,,8.87978,3.73709,us-west1,us-west1-a,,,,false
 c4d-standard-192-lssd,,,192,744,,8.87978,3.73709,us-west1,us-west1-c,,,,false
+c4d-standard-192-lssd,,,192,744,,10.67439,4.03992,us-west2,us-west2-a,,,,false
 c4d-standard-192-lssd,,,192,744,,10.67439,3.83832,us-west3,us-west3-a,,,,false
 c4d-standard-192-lssd,,,192,744,,10.00131,1.93781,us-west4,us-west4-a,,,,false
 c4d-standard-192-lssd,,,192,744,,10.00131,1.93781,us-west4,us-west4-c,,,,false
@@ -12006,6 +12038,7 @@ c4d-standard-2,,,2,7,,0.08988,0.03555,us-east5,us-east5-c,,,,false
 c4d-standard-2,,,2,7,,0.08988,0.03782,us-west1,us-west1-a,,,,false
 c4d-standard-2,,,2,7,,0.08988,0.03782,us-west1,us-west1-b,,,,false
 c4d-standard-2,,,2,7,,0.08988,0.03782,us-west1,us-west1-c,,,,false
+c4d-standard-2,,,2,7,,0.10804,0.04089,us-west2,us-west2-a,,,,false
 c4d-standard-2,,,2,7,,0.10804,0.03885,us-west3,us-west3-a,,,,false
 c4d-standard-2,,,2,7,,0.10123,0.01961,us-west4,us-west4-a,,,,false
 c4d-standard-2,,,2,7,,0.10123,0.01961,us-west4,us-west4-b,,,,false
@@ -12053,6 +12086,7 @@ c4d-standard-32,,,32,124,,1.47996,0.58532,us-east5,us-east5-c,,,,false
 c4d-standard-32,,,32,124,,1.47996,0.62285,us-west1,us-west1-a,,,,false
 c4d-standard-32,,,32,124,,1.47996,0.62285,us-west1,us-west1-b,,,,false
 c4d-standard-32,,,32,124,,1.47996,0.62285,us-west1,us-west1-c,,,,false
+c4d-standard-32,,,32,124,,1.77907,0.67332,us-west2,us-west2-a,,,,false
 c4d-standard-32,,,32,124,,1.77907,0.63972,us-west3,us-west3-a,,,,false
 c4d-standard-32,,,32,124,,1.66688,0.32297,us-west4,us-west4-a,,,,false
 c4d-standard-32,,,32,124,,1.66688,0.32297,us-west4,us-west4-b,,,,false
@@ -12091,6 +12125,7 @@ c4d-standard-32-lssd,,,32,124,,1.47996,0.58532,us-east5,us-east5-b,,,,false
 c4d-standard-32-lssd,,,32,124,,1.47996,0.58532,us-east5,us-east5-c,,,,false
 c4d-standard-32-lssd,,,32,124,,1.47996,0.62285,us-west1,us-west1-a,,,,false
 c4d-standard-32-lssd,,,32,124,,1.47996,0.62285,us-west1,us-west1-c,,,,false
+c4d-standard-32-lssd,,,32,124,,1.77907,0.67332,us-west2,us-west2-a,,,,false
 c4d-standard-32-lssd,,,32,124,,1.77907,0.63972,us-west3,us-west3-a,,,,false
 c4d-standard-32-lssd,,,32,124,,1.66688,0.32297,us-west4,us-west4-a,,,,false
 c4d-standard-32-lssd,,,32,124,,1.66688,0.32297,us-west4,us-west4-c,,,,false
@@ -12137,6 +12172,7 @@ c4d-standard-384,,,384,1488,,17.75956,7.02389,us-east5,us-east5-c,,,,false
 c4d-standard-384,,,384,1488,,17.75956,7.47418,us-west1,us-west1-a,,,,false
 c4d-standard-384,,,384,1488,,17.75956,7.47418,us-west1,us-west1-b,,,,false
 c4d-standard-384,,,384,1488,,17.75956,7.47418,us-west1,us-west1-c,,,,false
+c4d-standard-384,,,384,1488,,21.34878,8.07984,us-west2,us-west2-a,,,,false
 c4d-standard-384,,,384,1488,,21.34878,7.67664,us-west3,us-west3-a,,,,false
 c4d-standard-384,,,384,1488,,20.00262,3.87562,us-west4,us-west4-a,,,,false
 c4d-standard-384,,,384,1488,,20.00262,3.87562,us-west4,us-west4-b,,,,false
@@ -12175,6 +12211,7 @@ c4d-standard-384-lssd,,,384,1488,,17.75956,7.02389,us-east5,us-east5-b,,,,false
 c4d-standard-384-lssd,,,384,1488,,17.75956,7.02389,us-east5,us-east5-c,,,,false
 c4d-standard-384-lssd,,,384,1488,,17.75956,7.47418,us-west1,us-west1-a,,,,false
 c4d-standard-384-lssd,,,384,1488,,17.75956,7.47418,us-west1,us-west1-c,,,,false
+c4d-standard-384-lssd,,,384,1488,,21.34878,8.07984,us-west2,us-west2-a,,,,false
 c4d-standard-384-lssd,,,384,1488,,21.34878,7.67664,us-west3,us-west3-a,,,,false
 c4d-standard-384-lssd,,,384,1488,,20.00262,3.87562,us-west4,us-west4-a,,,,false
 c4d-standard-384-lssd,,,384,1488,,20.00262,3.87562,us-west4,us-west4-c,,,,false
@@ -12226,6 +12263,7 @@ c4d-standard-4,,,4,15,,0.18325,0.07248,us-east5,us-east5-c,,,,false
 c4d-standard-4,,,4,15,,0.18325,0.07712,us-west1,us-west1-a,,,,false
 c4d-standard-4,,,4,15,,0.18325,0.07712,us-west1,us-west1-b,,,,false
 c4d-standard-4,,,4,15,,0.18325,0.07712,us-west1,us-west1-c,,,,false
+c4d-standard-4,,,4,15,,0.22028,0.08337,us-west2,us-west2-a,,,,false
 c4d-standard-4,,,4,15,,0.22028,0.07921,us-west3,us-west3-a,,,,false
 c4d-standard-4,,,4,15,,0.20639,0.03999,us-west4,us-west4-a,,,,false
 c4d-standard-4,,,4,15,,0.20639,0.03999,us-west4,us-west4-b,,,,false
@@ -12273,6 +12311,7 @@ c4d-standard-48,,,48,186,,2.21995,0.87799,us-east5,us-east5-c,,,,false
 c4d-standard-48,,,48,186,,2.21995,0.93427,us-west1,us-west1-a,,,,false
 c4d-standard-48,,,48,186,,2.21995,0.93427,us-west1,us-west1-b,,,,false
 c4d-standard-48,,,48,186,,2.21995,0.93427,us-west1,us-west1-c,,,,false
+c4d-standard-48,,,48,186,,2.6686,1.00998,us-west2,us-west2-a,,,,false
 c4d-standard-48,,,48,186,,2.6686,0.95958,us-west3,us-west3-a,,,,false
 c4d-standard-48,,,48,186,,2.50033,0.48445,us-west4,us-west4-a,,,,false
 c4d-standard-48,,,48,186,,2.50033,0.48445,us-west4,us-west4-b,,,,false
@@ -12311,6 +12350,7 @@ c4d-standard-48-lssd,,,48,186,,2.21995,0.87799,us-east5,us-east5-b,,,,false
 c4d-standard-48-lssd,,,48,186,,2.21995,0.87799,us-east5,us-east5-c,,,,false
 c4d-standard-48-lssd,,,48,186,,2.21995,0.93427,us-west1,us-west1-a,,,,false
 c4d-standard-48-lssd,,,48,186,,2.21995,0.93427,us-west1,us-west1-c,,,,false
+c4d-standard-48-lssd,,,48,186,,2.6686,1.00998,us-west2,us-west2-a,,,,false
 c4d-standard-48-lssd,,,48,186,,2.6686,0.95958,us-west3,us-west3-a,,,,false
 c4d-standard-48-lssd,,,48,186,,2.50033,0.48445,us-west4,us-west4-a,,,,false
 c4d-standard-48-lssd,,,48,186,,2.50033,0.48445,us-west4,us-west4-c,,,,false
@@ -12357,6 +12397,7 @@ c4d-standard-64,,,64,248,,2.95993,1.17065,us-east5,us-east5-c,,,,false
 c4d-standard-64,,,64,248,,2.95993,1.2457,us-west1,us-west1-a,,,,false
 c4d-standard-64,,,64,248,,2.95993,1.2457,us-west1,us-west1-b,,,,false
 c4d-standard-64,,,64,248,,2.95993,1.2457,us-west1,us-west1-c,,,,false
+c4d-standard-64,,,64,248,,3.55813,1.34664,us-west2,us-west2-a,,,,false
 c4d-standard-64,,,64,248,,3.55813,1.27944,us-west3,us-west3-a,,,,false
 c4d-standard-64,,,64,248,,3.33377,0.64594,us-west4,us-west4-a,,,,false
 c4d-standard-64,,,64,248,,3.33377,0.64594,us-west4,us-west4-b,,,,false
@@ -12395,6 +12436,7 @@ c4d-standard-64-lssd,,,64,248,,2.95993,1.17065,us-east5,us-east5-b,,,,false
 c4d-standard-64-lssd,,,64,248,,2.95993,1.17065,us-east5,us-east5-c,,,,false
 c4d-standard-64-lssd,,,64,248,,2.95993,1.2457,us-west1,us-west1-a,,,,false
 c4d-standard-64-lssd,,,64,248,,2.95993,1.2457,us-west1,us-west1-c,,,,false
+c4d-standard-64-lssd,,,64,248,,3.55813,1.34664,us-west2,us-west2-a,,,,false
 c4d-standard-64-lssd,,,64,248,,3.55813,1.27944,us-west3,us-west3-a,,,,false
 c4d-standard-64-lssd,,,64,248,,3.33377,0.64594,us-west4,us-west4-a,,,,false
 c4d-standard-64-lssd,,,64,248,,3.33377,0.64594,us-west4,us-west4-c,,,,false
@@ -12441,6 +12483,7 @@ c4d-standard-8,,,8,31,,0.36999,0.14633,us-east5,us-east5-c,,,,false
 c4d-standard-8,,,8,31,,0.36999,0.15571,us-west1,us-west1-a,,,,false
 c4d-standard-8,,,8,31,,0.36999,0.15571,us-west1,us-west1-b,,,,false
 c4d-standard-8,,,8,31,,0.36999,0.15571,us-west1,us-west1-c,,,,false
+c4d-standard-8,,,8,31,,0.44477,0.16833,us-west2,us-west2-a,,,,false
 c4d-standard-8,,,8,31,,0.44477,0.15993,us-west3,us-west3-a,,,,false
 c4d-standard-8,,,8,31,,0.41672,0.08074,us-west4,us-west4-a,,,,false
 c4d-standard-8,,,8,31,,0.41672,0.08074,us-west4,us-west4-b,,,,false
@@ -12479,6 +12522,7 @@ c4d-standard-8-lssd,,,8,31,,0.36999,0.14633,us-east5,us-east5-b,,,,false
 c4d-standard-8-lssd,,,8,31,,0.36999,0.14633,us-east5,us-east5-c,,,,false
 c4d-standard-8-lssd,,,8,31,,0.36999,0.15571,us-west1,us-west1-a,,,,false
 c4d-standard-8-lssd,,,8,31,,0.36999,0.15571,us-west1,us-west1-c,,,,false
+c4d-standard-8-lssd,,,8,31,,0.44477,0.16833,us-west2,us-west2-a,,,,false
 c4d-standard-8-lssd,,,8,31,,0.44477,0.15993,us-west3,us-west3-a,,,,false
 c4d-standard-8-lssd,,,8,31,,0.41672,0.08074,us-west4,us-west4-a,,,,false
 c4d-standard-8-lssd,,,8,31,,0.41672,0.08074,us-west4,us-west4-c,,,,false
@@ -12525,6 +12569,7 @@ c4d-standard-96,,,96,372,,4.43989,1.75597,us-east5,us-east5-c,,,,false
 c4d-standard-96,,,96,372,,4.43989,1.86854,us-west1,us-west1-a,,,,false
 c4d-standard-96,,,96,372,,4.43989,1.86854,us-west1,us-west1-b,,,,false
 c4d-standard-96,,,96,372,,4.43989,1.86854,us-west1,us-west1-c,,,,false
+c4d-standard-96,,,96,372,,5.3372,2.01996,us-west2,us-west2-a,,,,false
 c4d-standard-96,,,96,372,,5.3372,1.91916,us-west3,us-west3-a,,,,false
 c4d-standard-96,,,96,372,,5.00065,0.9689,us-west4,us-west4-a,,,,false
 c4d-standard-96,,,96,372,,5.00065,0.9689,us-west4,us-west4-b,,,,false
@@ -12563,6 +12608,7 @@ c4d-standard-96-lssd,,,96,372,,4.43989,1.75597,us-east5,us-east5-b,,,,false
 c4d-standard-96-lssd,,,96,372,,4.43989,1.75597,us-east5,us-east5-c,,,,false
 c4d-standard-96-lssd,,,96,372,,4.43989,1.86854,us-west1,us-west1-a,,,,false
 c4d-standard-96-lssd,,,96,372,,4.43989,1.86854,us-west1,us-west1-c,,,,false
+c4d-standard-96-lssd,,,96,372,,5.3372,2.01996,us-west2,us-west2-a,,,,false
 c4d-standard-96-lssd,,,96,372,,5.3372,1.91916,us-west3,us-west3-a,,,,false
 c4d-standard-96-lssd,,,96,372,,5.00065,0.9689,us-west4,us-west4-a,,,,false
 c4d-standard-96-lssd,,,96,372,,5.00065,0.9689,us-west4,us-west4-c,,,,false
