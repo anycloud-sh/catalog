@@ -961,6 +961,12 @@
       ],
       "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,denmarkeast,eastasia,eastus,eastus2,francecentral,germanywestcentral,indiasouthcentral,indonesiacentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,koreasouth,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,qatarcentral,southafricanorth,southcentralus,southeastasia,southeastasia3,southindia,spaincentral,swedencentral,switzerlandnorth,taiwannorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westindia,westus,westus2,westus3"
     },
+    "azure:standardmdsmediummemoryv4family": {
+      "rawNames": [
+        "standardMDSMediumMemoryv4Family"
+      ],
+      "regions": "eastus,eastus2,germanywestcentral,westeurope,westus2"
+    },
     "azure:standardmidshighmemoryv3family": {
       "rawNames": [
         "standardMIDSHighMemoryv3Family"
@@ -1020,6 +1026,12 @@
         "standardMSMediumMemoryv3Family"
       ],
       "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,denmarkeast,eastasia,eastus,eastus2,francecentral,germanywestcentral,indiasouthcentral,indonesiacentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,koreasouth,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,qatarcentral,southafricanorth,southcentralus,southeastasia,southeastasia3,southindia,spaincentral,swedencentral,switzerlandnorth,taiwannorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westindia,westus,westus2,westus3"
+    },
+    "azure:standardmsmediummemoryv4family": {
+      "rawNames": [
+        "StandardMSMediumMemoryv4Family"
+      ],
+      "regions": "eastus,eastus2,germanywestcentral,westeurope,westus2"
     },
     "azure:standardmsv2family": {
       "rawNames": [

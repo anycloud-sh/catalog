@@ -639,6 +639,10 @@
     "raw": "standardMDSMediumMemoryv3Family",
     "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,denmarkeast,eastasia,eastus,eastus2,francecentral,germanywestcentral,indiasouthcentral,indonesiacentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,koreasouth,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,qatarcentral,southafricanorth,southcentralus,southeastasia,southeastasia3,southindia,spaincentral,swedencentral,switzerlandnorth,taiwannorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westindia,westus,westus2,westus3"
   },
+  "standardmdsmediummemoryv4family": {
+    "raw": "standardMDSMediumMemoryv4Family",
+    "regions": "eastus,eastus2,germanywestcentral,westeurope,westus2"
+  },
   "standardmidshighmemoryv3family": {
     "raw": "standardMIDSHighMemoryv3Family",
     "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,denmarkeast,eastasia,eastus,eastus2,francecentral,germanywestcentral,indiasouthcentral,indonesiacentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,koreasouth,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,qatarcentral,southafricanorth,southcentralus,southeastasia,southeastasia3,southindia,spaincentral,swedencentral,switzerlandnorth,taiwannorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westindia,westus,westus2,westus3"
@@ -678,6 +682,10 @@
   "standardmsmediummemoryv3family": {
     "raw": "standardMSMediumMemoryv3Family",
     "regions": "australiacentral,australiaeast,australiasoutheast,austriaeast,belgiumcentral,brazilsouth,canadacentral,canadaeast,centralindia,centralus,chilecentral,denmarkeast,eastasia,eastus,eastus2,francecentral,germanywestcentral,indiasouthcentral,indonesiacentral,israelcentral,italynorth,japaneast,japanwest,koreacentral,koreasouth,malaysiawest,mexicocentral,newzealandnorth,northcentralus,northeurope,norwayeast,polandcentral,qatarcentral,southafricanorth,southcentralus,southeastasia,southeastasia3,southindia,spaincentral,swedencentral,switzerlandnorth,taiwannorth,uaenorth,uksouth,ukwest,westcentralus,westeurope,westindia,westus,westus2,westus3"
+  },
+  "standardmsmediummemoryv4family": {
+    "raw": "StandardMSMediumMemoryv4Family",
+    "regions": "eastus,eastus2,germanywestcentral,westeurope,westus2"
   },
   "standardmsv2family": {
     "raw": "standardMSv2Family",
