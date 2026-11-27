@@ -6365,6 +6365,7 @@ c4-highmem-144-lssd,,,144,1116,,10.88591,3.1563,europe-west8,europe-west8-c,,,,t
 c4-highmem-144-lssd,,,144,1116,,10.88591,1.36634,europe-west9,europe-west9-a,,,,true,x86_64
 c4-highmem-144-lssd,,,144,1116,,11.40206,3.07915,me-central1,me-central1-c,,,,true,x86_64
 c4-highmem-144-lssd,,,144,1116,,10.32285,1.31731,me-west1,me-west1-b,,,,true,x86_64
+c4-highmem-144-lssd,,,144,1116,,10.33317,2.31116,northamerica-northeast1,northamerica-northeast1-a,,,,true,x86_64
 c4-highmem-144-lssd,,,144,1116,,10.33317,2.31116,northamerica-northeast1,northamerica-northeast1-b,,,,true,x86_64
 c4-highmem-144-lssd,,,144,1116,,10.33317,3.8219,northamerica-northeast2,northamerica-northeast2-b,,,,true,x86_64
 c4-highmem-144-lssd,,,144,1116,,10.33317,3.8219,northamerica-northeast2,northamerica-northeast2-c,,,,true,x86_64
@@ -6571,6 +6572,7 @@ c4-highmem-16-lssd,,,16,124,,1.20955,0.3507,europe-west8,europe-west8-c,,,,true,
 c4-highmem-16-lssd,,,16,124,,1.20955,0.15182,europe-west9,europe-west9-a,,,,true,x86_64
 c4-highmem-16-lssd,,,16,124,,1.2669,0.34213,me-central1,me-central1-c,,,,true,x86_64
 c4-highmem-16-lssd,,,16,124,,1.14698,0.14637,me-west1,me-west1-b,,,,true,x86_64
+c4-highmem-16-lssd,,,16,124,,1.14813,0.2568,northamerica-northeast1,northamerica-northeast1-a,,,,true,x86_64
 c4-highmem-16-lssd,,,16,124,,1.14813,0.2568,northamerica-northeast1,northamerica-northeast1-b,,,,true,x86_64
 c4-highmem-16-lssd,,,16,124,,1.14813,0.42466,northamerica-northeast2,northamerica-northeast2-b,,,,true,x86_64
 c4-highmem-16-lssd,,,16,124,,1.14813,0.42466,northamerica-northeast2,northamerica-northeast2-c,,,,true,x86_64
@@ -6777,6 +6779,7 @@ c4-highmem-192-lssd,,,192,1488,,14.51455,4.2084,europe-west8,europe-west8-c,,,,t
 c4-highmem-192-lssd,,,192,1488,,14.51455,1.82179,europe-west9,europe-west9-a,,,,true,x86_64
 c4-highmem-192-lssd,,,192,1488,,15.20274,4.10554,me-central1,me-central1-c,,,,true,x86_64
 c4-highmem-192-lssd,,,192,1488,,13.7638,1.75642,me-west1,me-west1-b,,,,true,x86_64
+c4-highmem-192-lssd,,,192,1488,,13.77756,3.08155,northamerica-northeast1,northamerica-northeast1-a,,,,true,x86_64
 c4-highmem-192-lssd,,,192,1488,,13.77756,3.08155,northamerica-northeast1,northamerica-northeast1-b,,,,true,x86_64
 c4-highmem-192-lssd,,,192,1488,,13.77756,5.09587,northamerica-northeast2,northamerica-northeast2-b,,,,true,x86_64
 c4-highmem-192-lssd,,,192,1488,,13.77756,5.09587,northamerica-northeast2,northamerica-northeast2-c,,,,true,x86_64
@@ -7099,6 +7102,7 @@ c4-highmem-24-lssd,,,24,186,,1.81432,0.52605,europe-west8,europe-west8-c,,,,true
 c4-highmem-24-lssd,,,24,186,,1.81432,0.22772,europe-west9,europe-west9-a,,,,true,x86_64
 c4-highmem-24-lssd,,,24,186,,1.90034,0.51319,me-central1,me-central1-c,,,,true,x86_64
 c4-highmem-24-lssd,,,24,186,,1.72047,0.21955,me-west1,me-west1-b,,,,true,x86_64
+c4-highmem-24-lssd,,,24,186,,1.7222,0.38519,northamerica-northeast1,northamerica-northeast1-a,,,,true,x86_64
 c4-highmem-24-lssd,,,24,186,,1.7222,0.38519,northamerica-northeast1,northamerica-northeast1-b,,,,true,x86_64
 c4-highmem-24-lssd,,,24,186,,1.7222,0.63698,northamerica-northeast2,northamerica-northeast2-b,,,,true,x86_64
 c4-highmem-24-lssd,,,24,186,,1.7222,0.63698,northamerica-northeast2,northamerica-northeast2-c,,,,true,x86_64
@@ -7294,6 +7298,7 @@ c4-highmem-288-lssd,,,288,2232,,21.77183,6.3126,europe-west8,europe-west8-c,,,,t
 c4-highmem-288-lssd,,,288,2232,,21.77183,2.73269,europe-west9,europe-west9-a,,,,true,x86_64
 c4-highmem-288-lssd,,,288,2232,,22.80411,6.1583,me-central1,me-central1-c,,,,true,x86_64
 c4-highmem-288-lssd,,,288,2232,,20.6457,2.63462,me-west1,me-west1-b,,,,true,x86_64
+c4-highmem-288-lssd,,,288,2232,,20.66635,4.62233,northamerica-northeast1,northamerica-northeast1-a,,,,true,x86_64
 c4-highmem-288-lssd,,,288,2232,,20.66635,4.62233,northamerica-northeast1,northamerica-northeast1-b,,,,true,x86_64
 c4-highmem-288-lssd,,,288,2232,,20.66635,7.64381,northamerica-northeast2,northamerica-northeast2-b,,,,true,x86_64
 c4-highmem-288-lssd,,,288,2232,,20.66635,7.64381,northamerica-northeast2,northamerica-northeast2-c,,,,true,x86_64
@@ -7561,6 +7566,7 @@ c4-highmem-32-lssd,,,32,248,,2.41909,0.7014,europe-west8,europe-west8-c,,,,true,
 c4-highmem-32-lssd,,,32,248,,2.41909,0.30363,europe-west9,europe-west9-a,,,,true,x86_64
 c4-highmem-32-lssd,,,32,248,,2.53379,0.68426,me-central1,me-central1-c,,,,true,x86_64
 c4-highmem-32-lssd,,,32,248,,2.29397,0.29274,me-west1,me-west1-b,,,,true,x86_64
+c4-highmem-32-lssd,,,32,248,,2.29626,0.51359,northamerica-northeast1,northamerica-northeast1-a,,,,true,x86_64
 c4-highmem-32-lssd,,,32,248,,2.29626,0.51359,northamerica-northeast1,northamerica-northeast1-b,,,,true,x86_64
 c4-highmem-32-lssd,,,32,248,,2.29626,0.84931,northamerica-northeast2,northamerica-northeast2-b,,,,true,x86_64
 c4-highmem-32-lssd,,,32,248,,2.29626,0.84931,northamerica-northeast2,northamerica-northeast2-c,,,,true,x86_64
@@ -7767,6 +7773,7 @@ c4-highmem-4-lssd,,,4,31,,0.30239,0.08768,europe-west8,europe-west8-c,,,,true,x8
 c4-highmem-4-lssd,,,4,31,,0.30239,0.03795,europe-west9,europe-west9-a,,,,true,x86_64
 c4-highmem-4-lssd,,,4,31,,0.31672,0.08553,me-central1,me-central1-c,,,,true,x86_64
 c4-highmem-4-lssd,,,4,31,,0.28675,0.03659,me-west1,me-west1-b,,,,true,x86_64
+c4-highmem-4-lssd,,,4,31,,0.28703,0.0642,northamerica-northeast1,northamerica-northeast1-a,,,,true,x86_64
 c4-highmem-4-lssd,,,4,31,,0.28703,0.0642,northamerica-northeast1,northamerica-northeast1-b,,,,true,x86_64
 c4-highmem-4-lssd,,,4,31,,0.28703,0.10616,northamerica-northeast2,northamerica-northeast2-b,,,,true,x86_64
 c4-highmem-4-lssd,,,4,31,,0.28703,0.10616,northamerica-northeast2,northamerica-northeast2-c,,,,true,x86_64
@@ -7973,6 +7980,7 @@ c4-highmem-48-lssd,,,48,372,,3.62864,1.0521,europe-west8,europe-west8-c,,,,true,
 c4-highmem-48-lssd,,,48,372,,3.62864,0.45545,europe-west9,europe-west9-a,,,,true,x86_64
 c4-highmem-48-lssd,,,48,372,,3.80069,1.02638,me-central1,me-central1-c,,,,true,x86_64
 c4-highmem-48-lssd,,,48,372,,3.44095,0.4391,me-west1,me-west1-b,,,,true,x86_64
+c4-highmem-48-lssd,,,48,372,,3.44439,0.77039,northamerica-northeast1,northamerica-northeast1-a,,,,true,x86_64
 c4-highmem-48-lssd,,,48,372,,3.44439,0.77039,northamerica-northeast1,northamerica-northeast1-b,,,,true,x86_64
 c4-highmem-48-lssd,,,48,372,,3.44439,1.27397,northamerica-northeast2,northamerica-northeast2-b,,,,true,x86_64
 c4-highmem-48-lssd,,,48,372,,3.44439,1.27397,northamerica-northeast2,northamerica-northeast2-c,,,,true,x86_64
@@ -8179,6 +8187,7 @@ c4-highmem-8-lssd,,,8,62,,0.60477,0.17535,europe-west8,europe-west8-c,,,,true,x8
 c4-highmem-8-lssd,,,8,62,,0.60477,0.07591,europe-west9,europe-west9-a,,,,true,x86_64
 c4-highmem-8-lssd,,,8,62,,0.63345,0.17106,me-central1,me-central1-c,,,,true,x86_64
 c4-highmem-8-lssd,,,8,62,,0.57349,0.07318,me-west1,me-west1-b,,,,true,x86_64
+c4-highmem-8-lssd,,,8,62,,0.57407,0.1284,northamerica-northeast1,northamerica-northeast1-a,,,,true,x86_64
 c4-highmem-8-lssd,,,8,62,,0.57407,0.1284,northamerica-northeast1,northamerica-northeast1-b,,,,true,x86_64
 c4-highmem-8-lssd,,,8,62,,0.57407,0.21233,northamerica-northeast2,northamerica-northeast2-b,,,,true,x86_64
 c4-highmem-8-lssd,,,8,62,,0.57407,0.21233,northamerica-northeast2,northamerica-northeast2-c,,,,true,x86_64
@@ -8385,6 +8394,7 @@ c4-highmem-96-lssd,,,96,744,,7.25728,2.1042,europe-west8,europe-west8-c,,,,true,
 c4-highmem-96-lssd,,,96,744,,7.25728,0.9109,europe-west9,europe-west9-a,,,,true,x86_64
 c4-highmem-96-lssd,,,96,744,,7.60137,2.05277,me-central1,me-central1-c,,,,true,x86_64
 c4-highmem-96-lssd,,,96,744,,6.8819,0.87821,me-west1,me-west1-b,,,,true,x86_64
+c4-highmem-96-lssd,,,96,744,,6.88878,1.54078,northamerica-northeast1,northamerica-northeast1-a,,,,true,x86_64
 c4-highmem-96-lssd,,,96,744,,6.88878,1.54078,northamerica-northeast1,northamerica-northeast1-b,,,,true,x86_64
 c4-highmem-96-lssd,,,96,744,,6.88878,2.54794,northamerica-northeast2,northamerica-northeast2-b,,,,true,x86_64
 c4-highmem-96-lssd,,,96,744,,6.88878,2.54794,northamerica-northeast2,northamerica-northeast2-c,,,,true,x86_64
@@ -8580,6 +8590,7 @@ c4-standard-144-lssd,,,144,540,,8.2547,2.3931,europe-west8,europe-west8-c,,,,tru
 c4-standard-144-lssd,,,144,540,,8.2547,1.03572,europe-west9,europe-west9-a,,,,true,x86_64
 c4-standard-144-lssd,,,144,540,,8.64609,2.33496,me-central1,me-central1-c,,,,true,x86_64
 c4-standard-144-lssd,,,144,540,,7.82773,0.99936,me-west1,me-west1-b,,,,true,x86_64
+c4-standard-144-lssd,,,144,540,,7.83556,1.75302,northamerica-northeast1,northamerica-northeast1-a,,,,true,x86_64
 c4-standard-144-lssd,,,144,540,,7.83556,1.75302,northamerica-northeast1,northamerica-northeast1-b,,,,true,x86_64
 c4-standard-144-lssd,,,144,540,,7.83556,2.898,northamerica-northeast2,northamerica-northeast2-b,,,,true,x86_64
 c4-standard-144-lssd,,,144,540,,7.83556,2.898,northamerica-northeast2,northamerica-northeast2-c,,,,true,x86_64
@@ -8785,6 +8796,7 @@ c4-standard-16-lssd,,,16,60,,0.91719,0.2659,europe-west8,europe-west8-c,,,,true,
 c4-standard-16-lssd,,,16,60,,0.91719,0.11508,europe-west9,europe-west9-a,,,,true,x86_64
 c4-standard-16-lssd,,,16,60,,0.96068,0.25944,me-central1,me-central1-c,,,,true,x86_64
 c4-standard-16-lssd,,,16,60,,0.86975,0.11104,me-west1,me-west1-b,,,,true,x86_64
+c4-standard-16-lssd,,,16,60,,0.87062,0.19478,northamerica-northeast1,northamerica-northeast1-a,,,,true,x86_64
 c4-standard-16-lssd,,,16,60,,0.87062,0.19478,northamerica-northeast1,northamerica-northeast1-b,,,,true,x86_64
 c4-standard-16-lssd,,,16,60,,0.87062,0.322,northamerica-northeast2,northamerica-northeast2-b,,,,true,x86_64
 c4-standard-16-lssd,,,16,60,,0.87062,0.322,northamerica-northeast2,northamerica-northeast2-c,,,,true,x86_64
@@ -8990,6 +9002,7 @@ c4-standard-192-lssd,,,192,720,,11.00627,3.1908,europe-west8,europe-west8-c,,,,t
 c4-standard-192-lssd,,,192,720,,11.00627,1.38096,europe-west9,europe-west9-a,,,,true,x86_64
 c4-standard-192-lssd,,,192,720,,11.52811,3.11328,me-central1,me-central1-c,,,,true,x86_64
 c4-standard-192-lssd,,,192,720,,10.43698,1.33248,me-west1,me-west1-b,,,,true,x86_64
+c4-standard-192-lssd,,,192,720,,10.44741,2.33736,northamerica-northeast1,northamerica-northeast1-a,,,,true,x86_64
 c4-standard-192-lssd,,,192,720,,10.44741,2.33736,northamerica-northeast1,northamerica-northeast1-b,,,,true,x86_64
 c4-standard-192-lssd,,,192,720,,10.44741,3.864,northamerica-northeast2,northamerica-northeast2-b,,,,true,x86_64
 c4-standard-192-lssd,,,192,720,,10.44741,3.864,northamerica-northeast2,northamerica-northeast2-c,,,,true,x86_64
@@ -9310,6 +9323,7 @@ c4-standard-24-lssd,,,24,90,,1.37578,0.39885,europe-west8,europe-west8-c,,,,true
 c4-standard-24-lssd,,,24,90,,1.37578,0.17262,europe-west9,europe-west9-a,,,,true,x86_64
 c4-standard-24-lssd,,,24,90,,1.44101,0.38916,me-central1,me-central1-c,,,,true,x86_64
 c4-standard-24-lssd,,,24,90,,1.30462,0.16656,me-west1,me-west1-b,,,,true,x86_64
+c4-standard-24-lssd,,,24,90,,1.30593,0.29217,northamerica-northeast1,northamerica-northeast1-a,,,,true,x86_64
 c4-standard-24-lssd,,,24,90,,1.30593,0.29217,northamerica-northeast1,northamerica-northeast1-b,,,,true,x86_64
 c4-standard-24-lssd,,,24,90,,1.30593,0.483,northamerica-northeast2,northamerica-northeast2-b,,,,true,x86_64
 c4-standard-24-lssd,,,24,90,,1.30593,0.483,northamerica-northeast2,northamerica-northeast2-c,,,,true,x86_64
@@ -9505,6 +9519,7 @@ c4-standard-288-lssd,,,288,1080,,16.5094,4.7862,europe-west8,europe-west8-c,,,,t
 c4-standard-288-lssd,,,288,1080,,16.5094,2.07144,europe-west9,europe-west9-a,,,,true,x86_64
 c4-standard-288-lssd,,,288,1080,,17.29217,4.66992,me-central1,me-central1-c,,,,true,x86_64
 c4-standard-288-lssd,,,288,1080,,15.65546,1.99872,me-west1,me-west1-b,,,,true,x86_64
+c4-standard-288-lssd,,,288,1080,,15.67112,3.50604,northamerica-northeast1,northamerica-northeast1-a,,,,true,x86_64
 c4-standard-288-lssd,,,288,1080,,15.67112,3.50604,northamerica-northeast1,northamerica-northeast1-b,,,,true,x86_64
 c4-standard-288-lssd,,,288,1080,,15.67112,5.796,northamerica-northeast2,northamerica-northeast2-b,,,,true,x86_64
 c4-standard-288-lssd,,,288,1080,,15.67112,5.796,northamerica-northeast2,northamerica-northeast2-c,,,,true,x86_64
@@ -9754,6 +9769,7 @@ c4-standard-32-lssd,,,32,120,,1.83438,0.5318,europe-west8,europe-west8-c,,,,true
 c4-standard-32-lssd,,,32,120,,1.83438,0.23016,europe-west9,europe-west9-a,,,,true,x86_64
 c4-standard-32-lssd,,,32,120,,1.92135,0.51888,me-central1,me-central1-c,,,,true,x86_64
 c4-standard-32-lssd,,,32,120,,1.7395,0.22208,me-west1,me-west1-b,,,,true,x86_64
+c4-standard-32-lssd,,,32,120,,1.74124,0.38956,northamerica-northeast1,northamerica-northeast1-a,,,,true,x86_64
 c4-standard-32-lssd,,,32,120,,1.74124,0.38956,northamerica-northeast1,northamerica-northeast1-b,,,,true,x86_64
 c4-standard-32-lssd,,,32,120,,1.74124,0.644,northamerica-northeast2,northamerica-northeast2-b,,,,true,x86_64
 c4-standard-32-lssd,,,32,120,,1.74124,0.644,northamerica-northeast2,northamerica-northeast2-c,,,,true,x86_64
@@ -9959,6 +9975,7 @@ c4-standard-4-lssd,,,4,15,,0.2293,0.06648,europe-west8,europe-west8-c,,,,true,x8
 c4-standard-4-lssd,,,4,15,,0.2293,0.02877,europe-west9,europe-west9-a,,,,true,x86_64
 c4-standard-4-lssd,,,4,15,,0.24017,0.06486,me-central1,me-central1-c,,,,true,x86_64
 c4-standard-4-lssd,,,4,15,,0.21744,0.02776,me-west1,me-west1-b,,,,true,x86_64
+c4-standard-4-lssd,,,4,15,,0.21765,0.0487,northamerica-northeast1,northamerica-northeast1-a,,,,true,x86_64
 c4-standard-4-lssd,,,4,15,,0.21765,0.0487,northamerica-northeast1,northamerica-northeast1-b,,,,true,x86_64
 c4-standard-4-lssd,,,4,15,,0.21765,0.0805,northamerica-northeast2,northamerica-northeast2-b,,,,true,x86_64
 c4-standard-4-lssd,,,4,15,,0.21765,0.0805,northamerica-northeast2,northamerica-northeast2-c,,,,true,x86_64
@@ -10164,6 +10181,7 @@ c4-standard-48-lssd,,,48,180,,2.75157,0.7977,europe-west8,europe-west8-c,,,,true
 c4-standard-48-lssd,,,48,180,,2.75157,0.34524,europe-west9,europe-west9-a,,,,true,x86_64
 c4-standard-48-lssd,,,48,180,,2.88203,0.77832,me-central1,me-central1-c,,,,true,x86_64
 c4-standard-48-lssd,,,48,180,,2.60924,0.33312,me-west1,me-west1-b,,,,true,x86_64
+c4-standard-48-lssd,,,48,180,,2.61185,0.58434,northamerica-northeast1,northamerica-northeast1-a,,,,true,x86_64
 c4-standard-48-lssd,,,48,180,,2.61185,0.58434,northamerica-northeast1,northamerica-northeast1-b,,,,true,x86_64
 c4-standard-48-lssd,,,48,180,,2.61185,0.966,northamerica-northeast2,northamerica-northeast2-b,,,,true,x86_64
 c4-standard-48-lssd,,,48,180,,2.61185,0.966,northamerica-northeast2,northamerica-northeast2-c,,,,true,x86_64
@@ -10369,6 +10387,7 @@ c4-standard-8-lssd,,,8,30,,0.45859,0.13295,europe-west8,europe-west8-c,,,,true,x
 c4-standard-8-lssd,,,8,30,,0.45859,0.05754,europe-west9,europe-west9-a,,,,true,x86_64
 c4-standard-8-lssd,,,8,30,,0.48034,0.12972,me-central1,me-central1-c,,,,true,x86_64
 c4-standard-8-lssd,,,8,30,,0.43487,0.05552,me-west1,me-west1-b,,,,true,x86_64
+c4-standard-8-lssd,,,8,30,,0.43531,0.09739,northamerica-northeast1,northamerica-northeast1-a,,,,true,x86_64
 c4-standard-8-lssd,,,8,30,,0.43531,0.09739,northamerica-northeast1,northamerica-northeast1-b,,,,true,x86_64
 c4-standard-8-lssd,,,8,30,,0.43531,0.161,northamerica-northeast2,northamerica-northeast2-b,,,,true,x86_64
 c4-standard-8-lssd,,,8,30,,0.43531,0.161,northamerica-northeast2,northamerica-northeast2-c,,,,true,x86_64
@@ -10574,6 +10593,7 @@ c4-standard-96-lssd,,,96,360,,5.50313,1.5954,europe-west8,europe-west8-c,,,,true
 c4-standard-96-lssd,,,96,360,,5.50313,0.69048,europe-west9,europe-west9-a,,,,true,x86_64
 c4-standard-96-lssd,,,96,360,,5.76406,1.55664,me-central1,me-central1-c,,,,true,x86_64
 c4-standard-96-lssd,,,96,360,,5.21849,0.66624,me-west1,me-west1-b,,,,true,x86_64
+c4-standard-96-lssd,,,96,360,,5.22371,1.16868,northamerica-northeast1,northamerica-northeast1-a,,,,true,x86_64
 c4-standard-96-lssd,,,96,360,,5.22371,1.16868,northamerica-northeast1,northamerica-northeast1-b,,,,true,x86_64
 c4-standard-96-lssd,,,96,360,,5.22371,1.932,northamerica-northeast2,northamerica-northeast2-b,,,,true,x86_64
 c4-standard-96-lssd,,,96,360,,5.22371,1.932,northamerica-northeast2,northamerica-northeast2-c,,,,true,x86_64
